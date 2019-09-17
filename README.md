@@ -38,13 +38,13 @@ The default conda environment uses [PyTorch](https://github.com/pytorch/pytorch)
 If you do not have access to a CUDA-enabled GPU, we recommend using the GPU-accelerated [DeepArk webserver](#webserver).
 However, we have also included a CPU-only conda environment in `cpu_environment.yml` if you cannot use the webserver either.
 
-### Getting started with DeepArk
+### Usage overview
 
 To start using DeepArk, simply run the `DeepArk.py` script with python.
 The `model.py` file contains code to build the DeepArk model in python.
 The checkpoints to use with DeepArk are included in the `data` directory as `*.pth.tar` files.
 The checkpoints for mouse, fly, and worm are saved in `mus_musculus.pth.tar`, `drosophila_melanogaster.pth.tar`, and `caenorhabditis_elegans.pth.tar` respectively.
-It is worth noting that these checkpoint files are slight different from the ones produced by training the models with [selene](https://github.com/FunctionLab/selene), since we have included the arguments required to construct each model object.
+It is worth noting that these checkpoint files are slight different from the ones produced by training the models with [Selene](https://github.com/FunctionLab/selene), since we have included the arguments required to construct each model object.
 Information on each feature predicted by each model can be found in the `*.tsv` files in the `data` directory (e.g. `mus_musculus.tsv` and so on).
 These feature information files are described further in [this section of the FAQ](#features).
 
@@ -66,7 +66,7 @@ You can also find command-specific usage information like so:
 python DeepArk.py [COMMAND] --help
 ```
 
-#### <a name="prediction_howto"></a>Regulatory activity prediction
+### <a name="prediction_howto"></a>Regulatory activity prediction
 
 Predicting the regulatory activity of a genomic sequence with a DeepArk model is the most straightforward way to use DeepArk.
 To do so, you only need a DeepArk model checkpoint and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with the sequences you would like to make predictions for.
@@ -105,7 +105,7 @@ Finally, further information about `predict` and its arguments may be found usin
 python DeepArk.py predict --help
 ```
 
-#### <a name="vep_howto"></a>Variant effect prediction
+### <a name="vep_howto"></a>Variant effect prediction
 
 To predict the effects of variants with DeepArk, we simply compare the predicted probabilities of the reference sequence to the mutated sequence containing the variant.
 To run make predictions for variants, you will need a DeepArk model checkpoint, a [VCF file](https://samtools.github.io/hts-specs/VCFv4.1.pdf) with your variants, and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with the reference genome sequence.
@@ -129,7 +129,7 @@ Finally, additional information about each argument for `vep` can be found using
 python DeepArk.py vep --help
 ```
 
-#### <a name="ism_howto"></a>_In silico_ mutagenesis
+### <a name="ism_howto"></a>_In silico_ mutagenesis
 
 _In silico_ mutagenesis (ISM) allows us to profile the regulatory potential of sequences by predicting the effects of all possible mutations in that sequence.
 Note that ISM generates roughly 17400 predictions per sequence, so it is much slower than the other prediction methods.
@@ -163,7 +163,7 @@ python DeepArk.py ism --help
 7. [How did you train DeepArk?](#training)
 8. [How accurate is DeepArk?](#performance)
 9. [How do I cite DeepArk?](#citation_faq)
-10. [Why are DeepArk's checkpoints different from selene's?](#checkpoints)
+10. [Why are DeepArk's checkpoints different from Selene's?](#checkpoints)
 
 #### <a name="features"></a>1. What regulatory features are predicted by each DeepArk model?
 
@@ -250,7 +250,7 @@ If you do not have access to a GPU, you can use the GPU-accelerated [DeepArk web
 
 #### <a name="training"></a>7. How did you train DeepArk?
 
-DeepArk was trained using [selene](https://github.com/FunctionLab/selene), our PyTorch-based library for developing deep learning models of biological sequences.
+DeepArk was trained using [Selene](https://github.com/FunctionLab/selene), our PyTorch-based library for developing deep learning models of biological sequences.
 All training details, such as model hyperparameters, will be described in a forthcoming manuscript.
 
 #### <a name="performance"></a>8. How accurate is DeepArk?
@@ -263,13 +263,13 @@ Details regarding performance will be thoroughly discussed in a forthcoming manu
 If you use the DeepArk webserver or run DeepArk locally, we ask that you cite DeepArk.
 Specific instructions on citing DeepArk can be found in [this section](#citation).
 
-#### <a name="checkpoints"></a>10. Why are DeepArk's checkpoints different from selene's?
+#### <a name="checkpoints"></a>10. Why are DeepArk's checkpoints different from Selene's?
 
 To simplify DeepArk's use, we have include the constructor arguments for the model in the checkpoint files.
-We also removed information that was not relevant to model inference (e.g. the minimum loss during from training).
+We also removed information that was not relevant to model inference (e.g. the minimum loss during training).
 This allows us to distribute the model as two files: the `model.py` file and the weights file.
-Clearly, this is different from the checkpoints generated by selene.
-To convert a checkpoint from selene for use with DeepArk, use the `convert_checkpoint.py` script.
+Clearly, this is different from the checkpoints generated by Selene.
+To convert a checkpoint from Selene for use with DeepArk, use the `convert_checkpoint.py` script.
 Documentation for this script can be accessed via `python scripts/convert_checkpoint.py --help`.
 
 ## <a name="citation"></a> Citing DeepArk
@@ -289,5 +289,5 @@ We include a BibTex citation below.
 
 ## Related tools
 
-Please check out [selene](https://github.com/FunctionLab/selene), our library for developing sequence-based deep learning models in [PyTorch](https://github.com/pytorch/pytorch).
-The paper about selene is available in [Nature Methods](https://doi.org/10.1038/s41592-019-0360-8) or as a preprint [here](https://www.biorxiv.org/content/10.1101/438291v3)
+Please check out [Selene](https://github.com/FunctionLab/selene), our library for developing sequence-based deep learning models in [PyTorch](https://github.com/pytorch/pytorch).
+Our paper on Selene is available in [Nature Methods](https://doi.org/10.1038/s41592-019-0360-8) or as a preprint [here](https://www.biorxiv.org/content/10.1101/438291v3)

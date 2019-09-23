@@ -72,7 +72,7 @@ python DeepArk.py [COMMAND] --help
 
 Predicting the regulatory activity of a genomic sequence with a DeepArk model is the most straightforward way to use DeepArk.
 To do so, you only need a DeepArk model checkpoint and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with the sequences you would like to make predictions for.
-Note that the sequences in the FASTA file should be 5797 bases long.
+Note that the sequences in the FASTA file should be 4095 bases long.
 Below is an example showing how to use DeepArk for prediction.
 
 ```
@@ -84,7 +84,7 @@ python DeepArk.py predict \
     --batch-size '64'
 ```
 
-Instead of a FASTA file with 5797 base pair sequences, you can alternatively provide DeepArk with a [BED file](https://genome.ucsc.edu/FAQ/FAQformat.html#format1) specifying regions in a reference genome.
+Instead of a FASTA file with 4095 base pair sequences, you can alternatively provide DeepArk with a [BED file](https://genome.ucsc.edu/FAQ/FAQformat.html#format1) specifying regions in a reference genome.
 If using DeepArk with a BED file, you must include a FASTA file specifying the reference genome sequence to use with it.
 Additional information about where to find a FASTA file for a reference genome is included in [this section below](#reference_genomes).
 We include an example of this usage below.
@@ -136,7 +136,7 @@ python DeepArk.py vep --help
 _In silico_ mutagenesis (ISM) allows us to profile the regulatory potential of sequences by predicting the effects of all possible mutations in that sequence.
 Note that ISM generates roughly 17400 predictions per sequence, so it is much slower than the other prediction methods.
 To profile sequences with ISM, you will need a DeepArk model checkpoint and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with at least one entry in it.
-Note that the sequences in the FASTA file should be 5797 bases long.
+Note that the sequences in the FASTA file should be 4095 bases long.
 We show an example invocation of ISM command below.
 
 ```

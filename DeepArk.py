@@ -95,7 +95,7 @@ def predict(context, checkpoint_file, input_file, genome_file, output_dir, outpu
 
     The input file should be a FASTA file containing the sequences to perform in silico mutagenesis on.
  Alternatively, you can use a BED file and FASTA reference file. In both cases, the sequences must be at
-  least 5797 bases long. If sequences are longer, the middle 5797 bases will be used for prediction.
+  least 4095 bases long. If sequences are longer, the middle 4095 bases will be used for prediction.
     """
     # Setup.
     torch.set_num_threads(n_threads)
@@ -161,7 +161,7 @@ def vep(context, checkpoint_file, input_file, genome_file, output_dir, output_fo
 
     Input should follow the VCF file format, but should not include more than one variant per 
 line (e.g. triallelic sites) or variants that cannot be represented with the four canonical base
-pairs (e.g. some very long or named variants). Although variants could be as long as 5797 bases, 
+pairs (e.g. some very long or named variants). Although variants could be as long as 4095 bases, 
 we recommend only considering shorter variants (e.g. <1000 bases). To consider more than one 
 variant at a time (i.e. haplotypes), use `predict` to make predictions on a FASTA file with 
 the alternative haplotype sequences.
@@ -228,7 +228,7 @@ def ism(context, checkpoint_file, input_file, output_dir, output_format, batch_s
     Perform saturated in silico mutagenesis.
 
        The input file should be a FASTA file containing the sequences to perform in silico mutagenesis on.
-The sequences should be at least 5797 bases long. If sequences are longer, the middle 5797 base will be 
+The sequences should be at least 4095 bases long. If sequences are longer, the middle 4095 base will be 
 used for prediction.
     """
     # Setup.

@@ -1,6 +1,6 @@
 # DeepArk
 
-DeepArk is a set of models of the mouse, worm, fish, and fly genomic regulatory codes.
+DeepArk is a set of models of the worm, fish, fly, and mouse regulatory codes.
 For each of these organism, we constructed a deep convolutional neural network that predict regulatory activities (i.e. histone modifications, transcription factor binding, and chromatin state) directly from genomic sequences.
 Besidese accurately predicting a sequence's regulatory activity, DeepArk can predict the effects of variants on regulatory function and profile sequences regulatory potential with _in silico_ mutagenesis.
 If you are a researcher with no programming experience or access to GPUs, please take a look at [our free and user-friendly GPU-accelerated webserver](#webserver).
@@ -45,7 +45,7 @@ However, we have also included a CPU-only conda environment in `cpu_environment.
 To start using DeepArk, simply run the `DeepArk.py` script with python.
 The `model.py` file contains code to build the DeepArk model in python.
 The checkpoints to use with DeepArk are included in the `data` directory as `*.pth.tar` files.
-The checkpoints for mouse, fly, fish, and worm are saved in `mus_musculus.pth.tar`, `drosophila_melanogaster.pth.tar`, `danio_rerio.pth.tar`, and `caenorhabditis_elegans.pth.tar` respectively.
+The checkpoints for worm, fish, fly, and mouse are saved in `mus_musculus.pth.tar`, `drosophila_melanogaster.pth.tar`, `danio_rerio.pth.tar`, and `caenorhabditis_elegans.pth.tar` respectively.
 It is worth noting that these checkpoint files are slight different from the ones produced by training the models with [Selene](https://github.com/FunctionLab/selene), since we have included the arguments required to construct each model object.
 Information on each feature predicted by each model can be found in the `*.tsv` files in the `data` directory (e.g. `mus_musculus.tsv` and so on).
 These feature information files are described further in [this section of the FAQ](#features).
@@ -170,7 +170,7 @@ python DeepArk.py ism --help
 #### <a name="features"></a>1. What regulatory features are predicted by each DeepArk model?
 
 The features predicted by each model are included in the `*.tsv` files in the `data` directory.
-The information for mouse, fly, and worm is stored in `mus_musculus.tsv`, `drosophila_melanogaster.tsv`, and `caenorhabditis_elegans.tsv` respectively.
+The information for worm, fish, fly, and mouse is stored in `caenorhabditis_elegans.tsv`, `danio_rerio.tsv`, `drosophila_melanogaster.tsv`, and `mus_musculus.tsv` respectively.
 For a given row in these files, the `index` column specifies the corresponding entry in the DeepArk model output prediction vector.
 These index values start at zero.
 All of the information and metadata regarding the experiments was sourced from [ChIP-atlas](http://dx.doi.org/10.18908/lsdba.nbdc01558-000).

@@ -12,8 +12,6 @@
 5. [Citing DeepArk](#citation)
 6. [Related tools](#related_tools)
 
----
-
 ## <a name="what_is_deepark"></a> What is DeepArk?
 
 DeepArk is a set of models of the worm, fish, fly, and mouse regulatory codes.

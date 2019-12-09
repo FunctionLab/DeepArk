@@ -1,4 +1,7 @@
 # DeepArk
+![logo](data/deepark_logo.png)
+
+---
 
 DeepArk is a set of models of the worm, fish, fly, and mouse regulatory codes.
 For each of these organism, we constructed a deep convolutional neural network that predict regulatory activities (i.e. histone modifications, transcription factor binding, and chromatin state) directly from genomic sequences.

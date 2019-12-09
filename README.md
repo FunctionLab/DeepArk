@@ -3,6 +3,19 @@
 
 ---
 
+## Contents
+
+1. [What is DeepArk?](#what_is_deepark)
+2. [The DeepArk server](#webserver)
+3. [Running DeepArk locally](#local_usage)
+4. [Frequently asked questions](#faqs)
+5. [Citing DeepArk](#citation)
+6. [Related tools](#related_tools)
+
+---
+
+## <a name="what_is_deepark"></a> What is DeepArk?
+
 DeepArk is a set of models of the worm, fish, fly, and mouse regulatory codes.
 For each of these organism, we constructed a deep convolutional neural network that predict regulatory activities (i.e. histone modifications, transcription factor binding, and chromatin state) directly from genomic sequences.
 Besidese accurately predicting a sequence's regulatory activity, DeepArk can predict the effects of variants on regulatory function and profile sequences regulatory potential with _in silico_ mutagenesis.
@@ -157,7 +170,7 @@ Additional information regarding `ism` and its argument may be found with the fo
 python DeepArk.py ism --help
 ```
 
-## Frequently asked questions (FAQs)
+## <a name="faqs"></a> Frequently asked questions (FAQs)
 
 1. [What regulatory features predicted by each DeepArk model?](#features)
 2. [Where can I download reference genomes to use with DeepArk?](#reference_genomes)
@@ -292,7 +305,7 @@ We include a BibTex citation below.
 }
 ```
 
-## Related tools
+## <a name="related_tools"></a> Related tools
 
 Please check out [Selene](https://github.com/FunctionLab/selene), our library for developing sequence-based deep learning models in [PyTorch](https://github.com/pytorch/pytorch).
 Our paper on Selene is available in [Nature Methods](https://doi.org/10.1038/s41592-019-0360-8) or as a preprint [here](https://www.biorxiv.org/content/10.1101/438291v3)

@@ -70,4 +70,4 @@
 ##contig=<ID=chrUn_GL456368,length=20208>
 ##contig=<ID=chrUn_JH584304,length=114452>
 #CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
-chr7	28376686	liver_inc_enhancer	G	A	.	PASS	.
+chr7	28376686	zfp36_promoter	G	A	.	PASS	.

@@ -16,7 +16,7 @@
 
 DeepArk is a set of models of the worm, fish, fly, and mouse regulatory codes.
 For each of these organism, we constructed a deep convolutional neural network that predict regulatory activities (i.e. histone modifications, transcription factor binding, and chromatin state) directly from genomic sequences.
-Besidese accurately predicting a sequence's regulatory activity, DeepArk can predict the effects of variants on regulatory function and profile sequences regulatory potential with _in silico_ mutagenesis.
+Besidese accurately predicting a sequence's regulatory activity, DeepArk can predict the effects of variants on regulatory function and profile sequences regulatory potential with _in silico_ saturated mutagenesis.
 If you are a researcher with no programming experience or access to GPUs, please take a look at [our free and user-friendly GPU-accelerated webserver](#webserver).
 We also provide instructions for [running DeepArk on your own computer](#local_usage).
 
@@ -32,7 +32,7 @@ Instructions on how to do this are provided [below](#local_usage).
 ## <a name="local_usage"></a> Running DeepArk locally
 
 This repository is all you should need to run DeepArk on your own computer.
-The following subsections describe how to install DeepArk locally, and use it to predict the [regulatory activity of genomic sequences](#prediction_howto), predict the [regulatory effects of variants](#vep_howto), and [profile sequences with _in silico_ mutagenesis](#ism_howto)
+The following subsections describe how to install DeepArk locally, and use it to predict the [regulatory activity of genomic sequences](#prediction_howto), predict the [regulatory effects of variants](#vep_howto), and [profile sequences with _in silico_ saturated mutagenesis](#issm_howto)
 
 ### Installation
 
@@ -157,27 +157,27 @@ Finally, additional information about each argument for `vep` can be found using
 python DeepArk.py vep --help
 ```
 
-### <a name="ism_howto"></a>_In silico_ mutagenesis
+### <a name="issm_howto"></a>_In silico_ saturated mutagenesis
 
-_In silico_ mutagenesis (ISM) allows us to profile the regulatory potential of sequences by predicting the effects of all possible mutations in that sequence.
-Note that ISM generates roughly 17400 predictions per sequence, so it is much slower than the other prediction methods.
-To profile sequences with ISM, you will need a DeepArk model checkpoint and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with at least one entry in it.
+_In silico_ saturated mutagenesis (ISSM) allows us to profile the regulatory potential of sequences by predicting the effects of all possible mutations in that sequence.
+Note that ISSM generates roughly 17400 predictions per sequence, so it is much slower than the other prediction methods.
+To profile sequences with ISSM, you will need a DeepArk model checkpoint and a [FASTA file](https://en.wikipedia.org/wiki/FASTA_format) with at least one entry in it.
 Note that the sequences in the FASTA file should be 4095 bases long.
-We show an example invocation of ISM command below.
+We show an example invocation of ISSM command below.
 
 ```
-python DeepArk.py ism \
+python DeepArk.py issm \
     --checkpoint-file 'data/drosophila_melanogaster.pth.tar' \
-    --input-file 'examples/drosophila_melanogaster_ism_example.fasta' \
+    --input-file 'examples/drosophila_melanogaster_issm_example.fasta' \
     --output-dir './' \
     --output-format 'tsv' \
     --batch-size '64'
 ```
 
-Additional information regarding `ism` and its argument may be found with the following command:
+Additional information regarding `issm` and its argument may be found with the following command:
 
 ```
-python DeepArk.py ism --help
+python DeepArk.py issm --help
 ```
 
 ## <a name="faqs"></a> Frequently asked questions (FAQs)
@@ -187,7 +187,7 @@ python DeepArk.py ism --help
 3. [How do I force DeepArk to use or ignore my GPU?](#toggle_cuda)
 4. [How can I leverage multiple GPUs with DeepArk?](#data_parallel)
 5. [How do I set the number of threads used when I run DeepArk without a GPU?](#threading)
-6. [How can I speed up _in silico_ mutagenesis?](#ism_speedup)
+6. [How can I speed up _in silico_ saturated mutagenesis?](#issm_speedup)
 7. [How did you train DeepArk?](#training)
 8. [How accurate is DeepArk?](#performance)
 9. [How do I cite DeepArk?](#citation_faq)
@@ -235,12 +235,12 @@ Otherwise, DeepArk will not attempt to leverage a GPU.
 Running DeepArk on multiple GPUs in parallel is straightforward.
 To toggle whether DeepArk should leverage multiple GPUs, simply specify the `--data-parallel` or `--no-data-parallel` flags.
 This will toggle batch-level data parallelism on and off respectively.
-We modify the `ism` example from above to use data parallelism as follows:
+We modify the `issm` example from above to use data parallelism as follows:
 
 ```
-python DeepArk.py ism \
+python DeepArk.py issm \
     --checkpoint-file 'data/drosophila_melanogaster.pth.tar' \
-    --input-file 'examples/drosophila_melanogaster_ism_example.fasta' \
+    --input-file 'examples/drosophila_melanogaster_issm_example.fasta' \
     --output-dir './' \
     --output-format 'tsv' \
     --batch-size '64' \
@@ -266,15 +266,15 @@ python DeepArk.py predict \
     --n-threads '16'
 ```
 
-#### <a name="ism_speedup"></a>6. How can I speed up _in silico_ mutagenesis?
+#### <a name="issm_speedup"></a>6. How can I speed up _in silico_ saturated mutagenesis?
 
-_In silico_ mutagenesis (ISM) is generally the slowest process for DeepArk, in part because it is making far more predictions (i.e. roughly 17400 predictions per input sequence) than the other methods.
-Consequently, ISM will generally take longer to write its output to file than other methods.
-A simple way to speed up ISM runtime is to write predictions to [HDF5](http://portal.hdfgroup.org/display/knowledge/What+is+HDF5) files instead of TSV files.
-We also recommend using a GPU when running ISM.
-If ISM appears to be running slowly when using the GPU, make sure to force DeepArk to crash if it cannot access said GPU by [explicitly specifying CUDA use](#toggle_cuda).
-If ISM is too slow on a single GPU, you may want to consider using [multiple GPUs](#data_parallel).
-If you do not have access to a GPU, you can use the GPU-accelerated [DeepArk webserver](#webserver) to run your ISM experiments.
+_In silico_ saturated mutagenesis (ISSM) is generally the slowest process for DeepArk, in part because it is making far more predictions (i.e. roughly 17400 predictions per input sequence) than the other methods.
+Consequently, ISSM will generally take longer to write its output to file than other methods.
+A simple way to speed up ISSM runtime is to write predictions to [HDF5](http://portal.hdfgroup.org/display/knowledge/What+is+HDF5) files instead of TSV files.
+We also recommend using a GPU when running ISSM.
+If ISSM appears to be running slowly when using the GPU, make sure to force DeepArk to crash if it cannot access said GPU by [explicitly specifying CUDA use](#toggle_cuda).
+If ISSM is too slow on a single GPU, you may want to consider using [multiple GPUs](#data_parallel).
+If you do not have access to a GPU, you can use the GPU-accelerated [DeepArk webserver](#webserver) to run your ISSM experiments.
 
 #### <a name="training"></a>7. How did you train DeepArk?
 

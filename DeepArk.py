@@ -93,7 +93,7 @@ def predict(context, checkpoint_file, input_file, genome_file, output_dir, outpu
     """
     Make predictions for genomic sequences.
 
-    The input file should be a FASTA file containing the sequences to perform in silico mutagenesis on.
+    The input file should be a FASTA file containing the sequences to make predictions for.
  Alternatively, you can use a BED file and FASTA reference file. In both cases, the sequences must be at
   least 4095 bases long. If sequences are longer, the middle 4095 bases will be used for prediction.
     """
@@ -208,7 +208,7 @@ the alternative haplotype sequences.
     help=("The file containing the weights of the DeepArk model that you want to make " 
           "predictions with."))
 @click.option("--input-file", nargs=1, required=True, type=click.Path(exists=True),
-    help=("A FASTA file containing sequences to perform in silico mutagenesis on."))
+    help=("A FASTA file containing sequences to perform in silico saturated mutagenesis on."))
 @click.option("--output-dir", nargs=1, required=True, type=click.Path(exists=False),
     help=("Directory to write the output to."))
 @click.option("--output-format", nargs=1, required=True, type=click.Choice(["hdf5", "tsv"]),
@@ -223,11 +223,11 @@ the alternative haplotype sequences.
 @click.option("--n-threads", nargs=1, default=1, required=False, type=click.INT, 
     help="Number of threads for PyTorch.")
 @click.pass_context
-def ism(context, checkpoint_file, input_file, output_dir, output_format, batch_size, cuda, data_parallel, n_threads):
+def issm(context, checkpoint_file, input_file, output_dir, output_format, batch_size, cuda, data_parallel, n_threads):
     """
-    Perform saturated in silico mutagenesis.
+    Perform in silico saturated mutagenesis.
 
-       The input file should be a FASTA file containing the sequences to perform in silico mutagenesis on.
+       The input file should be a FASTA file containing the sequences to perform in silico saturated mutagenesis on.
 The sequences should be at least 4095 bases long. If sequences are longer, the middle 4095 base will be 
 used for prediction.
     """

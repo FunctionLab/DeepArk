@@ -53,6 +53,18 @@ conda activate DeepArk
 The default conda environment uses [PyTorch](https://github.com/pytorch/pytorch) and CUDA.
 If you do not have access to a CUDA-enabled GPU, we recommend using the GPU-accelerated [DeepArk webserver](#webserver).
 However, we have also included a CPU-only conda environment in `cpu_environment.yml` if you cannot use the webserver either.
+After downloading DeepArk, you will need to download the weights for the network.
+You can download all of the weights by running the `download_weights.sh` script as follows:
+
+```
+./download_weights.sh
+```
+
+Alternatively, you can download the weights for a subset of the species as follows:
+
+```
+./download_weights caenorhabditis_elegans danio_rerio
+```
 
 ### Usage overview
 

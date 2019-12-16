@@ -9,7 +9,7 @@ fi
 
 # Download weights for each species.
 for SPECIES in "${SPECIES_ARR[@]}"; do
-    wget 'http://deepark.princeton.edu/media/code/'"${SPECIES}"'.pth.tar'
+    wget 'http://deepark.princeton.edu/media/code/'"${SPECIES}"'.pth.tar' --directory-prefix=data
     if [ $? != 0 ]; then
         echo 'Failed to download weights for '"${SPECIES}"
         exit 1

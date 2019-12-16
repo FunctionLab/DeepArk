@@ -63,7 +63,7 @@ You can download all of the weights by running the `download_weights.sh` script 
 Alternatively, you can download the weights for a subset of the species as follows:
 
 ```
-./download_weights caenorhabditis_elegans danio_rerio
+./download_weights.sh caenorhabditis_elegans danio_rerio
 ```
 
 ### Usage overview

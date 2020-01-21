@@ -318,4 +318,4 @@ We include a BibTex citation below.
 ## <a name="related_tools"></a> Related tools
 
 Please check out [Selene](https://github.com/FunctionLab/selene), our library for developing sequence-based deep learning models in [PyTorch](https://github.com/pytorch/pytorch).
-Our paper on Selene is available in [Nature Methods](https://doi.org/10.1038/s41592-019-0360-8) or as a preprint [here](https://www.biorxiv.org/content/10.1101/438291v3)
+Our paper on Selene is available in [Nature Methods](https://doi.org/10.1038/s41592-019-0360-8) or as a preprint [here](https://www.biorxiv.org/content/10.1101/438291v3).

@@ -306,12 +306,14 @@ If you use DeepArk in your publication, please cite it.
 We include a BibTex citation below.
 
 ```
-@misc{cofer2019DeepArk,
-    title={DeepArk},
-    author={Cofer, E.M. and Troyanskaya, O.G.},
-    month={sep},
-    year={2019},
-    howpublished={\url{https://github.com/FunctionLab/DeepArk}},
+@article{DeepArk,
+  author = {Evan M Cofer, and Jo{\~{a}}o Raimundo, and Alicja Tadych, and Yuji Yamazaki, and Aaron K Wong, and Chandra L Theesfeld, and Michael S Levine, and Olga G Troyanskaya},
+  title = {{DeepArk}: modeling \textit{cis}-regulatory codes of model species with deep learning},
+  doi = {10.1101/2020.04.23.058040},
+  url = {https://doi.org/10.1101/2020.04.23.058040},
+  year = {2020},
+  month = apr,
+  journal = {biorXiv}
 }
 ```
 

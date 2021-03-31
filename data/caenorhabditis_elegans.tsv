@@ -1,827 +1,827 @@
-"index"	"accession"	"genome"	"assay_target_class"	"assay_target"	"biosample_type_class"	"biosample_type"	"treatment"	"mutation"	"test_auc_roc"	"test_auc_prc"
-0	"SRX027098"	"ce10"	"TFs and others"	"lem-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9772	0.4686
-1	"SRX043849"	"ce10"	"TFs and others"	"lin-11"	"Larvae"	"L2"	"None"	"None"	0.9948	0.3689
-2	"SRX043853"	"ce10"	"TFs and others"	"unc-130"	"Larvae"	"L1"	"None"	"None"	0.9949	0.3652
-3	"SRX043864"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.9473	0.1013
-4	"SRX043866"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.9341	0.1215
-5	"SRX043868"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Late embryo"	"None"	"None"	0.9419	0.1181
-6	"SRX043876"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2"	"None"	"None"	0.9143	0.2906
-7	"SRX043880"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9183	0.1774
-8	"SRX043968"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L4"	"None"	"None"	0.93	0.1619
-9	"SRX043982"	"ce10"	"TFs and others"	"mep-1"	"Embryo"	"Embryos"	"None"	"None"	0.9929	0.5349
-10	"SRX043991"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9942	0.488
-11	"SRX043992"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9615	0.4494
-12	"SRX043994"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9545	0.5087
-13	"SRX043998"	"ce10"	"TFs and others"	"lin-13"	"Embryo"	"Embryos"	"None"	"None"	0.9894	0.3007
-14	"SRX043999"	"ce10"	"TFs and others"	"elt-3"	"Larvae"	"L1"	"None"	"None"	0.9998	0.5686
-15	"SRX044002"	"ce10"	"TFs and others"	"elt-3"	"Larvae"	"L1"	"None"	"None"	0.9628	0.2599
-16	"SRX044004"	"ce10"	"TFs and others"	"ceh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9952	0.2849
-17	"SRX044006"	"ce10"	"TFs and others"	"ceh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9965	0.1641
-18	"SRX044014"	"ce10"	"TFs and others"	"skn-1"	"Larvae"	"L1"	"None"	"None"	0.9676	0.466
-19	"SRX054209"	"ce10"	"TFs and others"	"pha-4"	"Adult"	"Young adult"	"None"	"None"	0.9787	0.1701
-20	"SRX059223"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9859	0.5341
-21	"SRX059224"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9882	0.3322
-22	"SRX059225"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9656	0.131
-23	"SRX059226"	"ce10"	"TFs and others"	"lin-52"	"Larvae"	"L3"	"None"	"None"	0.9887	0.4921
-24	"SRX059228"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9891	0.5393
-25	"SRX059230"	"ce10"	"TFs and others"	"lin-37"	"Larvae"	"L3"	"None"	"None"	0.9891	0.4667
-26	"SRX059231"	"ce10"	"TFs and others"	"lin-37"	"Larvae"	"L3"	"None"	"None"	0.983	0.4586
-27	"SRX059233"	"ce10"	"TFs and others"	"lin-54"	"Larvae"	"L3"	"None"	"None"	0.9769	0.6247
-28	"SRX059234"	"ce10"	"TFs and others"	"lin-9"	"Larvae"	"L3"	"None"	"None"	0.9884	0.45899999999999996
-29	"SRX059235"	"ce10"	"TFs and others"	"lin-9"	"Larvae"	"L3"	"None"	"None"	0.9742	0.5356
-30	"SRX059237"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9728	0.4006
-31	"SRX059239"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9444	0.4066
-32	"SRX059240"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L3"	"None"	"None"	0.9864	0.516
-33	"SRX059241"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L3"	"None"	"None"	0.9907	0.4037
-34	"SRX059242"	"ce10"	"TFs and others"	"sdc-3"	"Larvae"	"L3"	"None"	"None"	0.9957	0.5049
-35	"SRX059244"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"None"	0.9701	0.5254
-36	"SRX059245"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"None"	0.9504	0.4108
-37	"SRX059250"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.9889	0.4761
-38	"SRX059252"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L3"	"None"	"None"	0.9618	0.4414
-39	"SRX059253"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L3"	"None"	"None"	0.9865	0.502
-40	"SRX059254"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9663	0.6451
-41	"SRX059256"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L3"	"None"	"None"	0.9868	0.4609
-42	"SRX059257"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L3"	"None"	"None"	0.9846	0.4531
-43	"SRX059265"	"ce10"	"Histone"	"H3K9ac"	"Larvae"	"L3"	"None"	"None"	0.9556	0.1045
-44	"SRX063957"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9784	0.6043
-45	"SRX063959"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9738	0.6296
-46	"SRX063960"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.9697	0.605
-47	"SRX065628"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L3"	"None"	"None"	0.9666	0.4994
-48	"SRX065629"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L3"	"None"	"None"	0.9568	0.5336
-49	"SRX065632"	"ce10"	"TFs and others"	"W03F9.2"	"Adult"	"Young adult"	"None"	"None"	0.9868	0.2985
-50	"SRX065633"	"ce10"	"TFs and others"	"W03F9.2"	"Adult"	"Young adult"	"None"	"None"	0.985	0.45
-51	"SRX065637"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L3"	"None"	"None"	0.8607	0.0695
-52	"SRX065641"	"ce10"	"TFs and others"	"ztf-7"	"Larvae"	"L4"	"None"	"None"	0.9279999999999999	0.159
-53	"SRX065644"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L2"	"None"	"None"	0.992	0.3547
-54	"SRX065656"	"ce10"	"TFs and others"	"nhr-28"	"Larvae"	"L4"	"None"	"None"	0.9544	0.4062
-55	"SRX065660"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L2"	"None"	"None"	0.9573	0.4359
-56	"SRX065678"	"ce10"	"TFs and others"	"gmeb-1"	"Larvae"	"L2"	"None"	"None"	0.9726	0.527
-57	"SRX065681"	"ce10"	"TFs and others"	"eor-1"	"Larvae"	"L3"	"None"	"None"	0.9157	0.0586
-58	"SRX065682"	"ce10"	"TFs and others"	"eor-1"	"Larvae"	"L3"	"None"	"None"	0.9112	0.0482
-59	"SRX065689"	"ce10"	"TFs and others"	"nhr-6"	"Larvae"	"L2"	"None"	"None"	0.987	0.3615
-60	"SRX065690"	"ce10"	"TFs and others"	"nhr-6"	"Larvae"	"L2"	"None"	"None"	0.9939	0.17
-61	"SRX065698"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L1"	"None"	"None"	0.997	0.2178
-62	"SRX065701"	"ce10"	"TFs and others"	"ceh-82"	"Larvae"	"L3"	"None"	"F45C12.2 transgene"	0.9837	0.2192
-63	"SRX065709"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L1"	"None"	"aly-2 transgene"	0.9676	0.149
-64	"SRX065710"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L1"	"None"	"aly-2 transgene"	0.9601	0.1396
-65	"SRX065717"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L3"	"None"	"aly-2 transgene"	0.9991	0.225
-66	"SRX065721"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L2"	"None"	"None"	0.993	0.3592
-67	"SRX065722"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L2"	"None"	"None"	0.9915	0.1937
-68	"SRX076077"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.997	0.0707
-69	"SRX076078"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.9948	0.0789
-70	"SRX076079"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"Utx-1 RNAi"	"None"	0.9967	0.2074
-71	"SRX094475"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9725	0.6401
-72	"SRX1007135"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.955	0.4875
-73	"SRX1007136"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.9381	0.4779
-74	"SRX1007137"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.9529	0.4867
-75	"SRX1007138"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.951	0.4663
-76	"SRX1099836"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9142	0.1986
-77	"SRX1099837"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8336	0.187
-78	"SRX1099838"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9206	0.2717
-79	"SRX1099839"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8455	0.1455
-80	"SRX1099840"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8285	0.1963
-81	"SRX1099841"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9083	0.1716
-82	"SRX1132919"	"ce10"	"TFs and others"	"elt-2"	"Larvae"	"L3"	"None"	"None"	0.9864	0.11599999999999999
-83	"SRX113601"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9688	0.1771
-84	"SRX113605"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.945	0.1664
-85	"SRX113606"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.956	0.2024
-86	"SRX113610"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9509	0.2614
-87	"SRX113611"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9149	0.1811
-88	"SRX118221"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L3"	"None"	"None"	0.987	0.3925
-89	"SRX120286"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L1"	"None"	"None"	0.9839	0.3641
-90	"SRX120287"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L1"	"None"	"None"	0.9927	0.3005
-91	"SRX1299429"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.7433	0.2085
-92	"SRX1388756"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9472	0.3972
-93	"SRX1388757"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9333	0.3171
-94	"SRX1388758"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9446	0.405
-95	"SRX1388759"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9527	0.3939
-96	"SRX1388760"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9401	0.2966
-97	"SRX1388761"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9415	0.4281
-98	"SRX1388762"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9284	0.3254
-99	"SRX1388763"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9315	0.3325
-100	"SRX1388764"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9416	0.4123
-101	"SRX1388765"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9492	0.3651
-102	"SRX1388766"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9403	0.266
-103	"SRX1388767"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.94	0.402
-104	"SRX1388771"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.978	0.326
-105	"SRX1388772"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9916	0.4433
-106	"SRX1388773"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9908	0.1754
-107	"SRX1388777"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9962	0.4112
-108	"SRX1388778"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9862	0.5087
-109	"SRX1388779"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9949	0.5743
-110	"SRX146516"	"ce10"	"TFs and others"	"F16B12.6"	"Larvae"	"L1"	"None"	"None"	0.993	0.5756
-111	"SRX146521"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L2"	"None"	"None"	0.9775	0.3898
-112	"SRX147626"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L2"	"None"	"None"	0.9864	0.3357
-113	"SRX147630"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L2"	"None"	"nhr-77 transgene"	0.9924	0.1635
-114	"SRX147633"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L4"	"None"	"nhr-77 transgene"	0.9757	0.2179
-115	"SRX147634"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L4"	"None"	"nhr-77 transgene"	0.9657	0.3609
-116	"SRX147645"	"ce10"	"TFs and others"	"ceh-82"	"Larvae"	"L1"	"None"	"None"	0.9919	0.597
-117	"SRX148637"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9458	0.2247
-118	"SRX151406"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L4"	"None"	"None"	0.9991	0.2703
-119	"SRX1674090"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.8957	0.5137
-120	"SRX1674094"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.8809999999999999	0.4395
-121	"SRX1674100"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"CstF50 RNAi"	"None"	0.894	0.4459
-122	"SRX1674102"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9269	0.4392
-123	"SRX172525"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9947	0.5695
-124	"SRX1769986"	"ce10"	"TFs and others"	"ama-1"	"Larvae"	"L2"	"None"	"None"	0.8024	0.1123
-125	"SRX1769988"	"ce10"	"TFs and others"	"ama-1"	"Larvae"	"L2"	"None"	"None"	0.7044	0.0739
-126	"SRX1769994"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.8388	0.3996
-127	"SRX1769995"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.7319	0.1198
-128	"SRX1769996"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.6759999999999999	0.152
-129	"SRX1769997"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.6688	0.1311
-130	"SRX188613"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9166	0.2984
-131	"SRX188614"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9016	0.1759
-132	"SRX1949396"	"ce10"	"TFs and others"	"let-607"	"Adult"	"Young adult"	"None"	"None"	0.9648	0.2636
-133	"SRX1949397"	"ce10"	"TFs and others"	"let-607"	"Adult"	"Young adult"	"None"	"None"	0.9640000000000001	0.2567
-134	"SRX2035133"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"antimycin A"	"None"	0.9696	0.7203
-135	"SRX2035134"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"antimycin A"	"None"	0.9702	0.7236
-136	"SRX2035136"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9811	0.7309
-137	"SRX2035137"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9805	0.7304
-138	"SRX208755"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.89	0.2485
-139	"SRX208756"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9457	0.3957
-140	"SRX208764"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9862	0.4675
-141	"SRX208767"	"ce10"	"TFs and others"	"npp-13"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9778	0.6462
-142	"SRX208771"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9779	0.6218
-143	"SRX208772"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9691	0.5772
-144	"SRX208773"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9757	0.6096
-145	"SRX208774"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9652	0.5375
-146	"SRX208775"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9844	0.3935
-147	"SRX208776"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9881	0.435
-148	"SRX208777"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9865	0.5162
-149	"SRX208778"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9882	0.5298
-150	"SRX212235"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9817	0.5261
-151	"SRX2144168"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9156	0.4999
-152	"SRX2144170"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"None"	0.9373	0.3474
-153	"SRX2144171"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"set-32 (ok1457)"	0.9467	0.3781
-154	"SRX2144172"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021)"	0.9442	0.3549
-155	"SRX2144173"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9223	0.2921
-156	"SRX2144174"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"hrde-1 (tm-1200)"	0.9363	0.3236
-157	"SRX2144175"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9821	0.5853
-158	"SRX2144178"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9690000000000001	0.4674
-159	"SRX2144179"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9401	0.4482
-160	"SRX2144180"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9344	0.3574
-161	"SRX2144181"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"set-32 (ok1457)"	0.9473	0.3495
-162	"SRX2144182"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021)"	0.9428	0.2981
-163	"SRX2144183"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.8979	0.1628
-164	"SRX2144184"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9283	0.259
-165	"SRX2144191"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"set-32 (ok1457)"	0.9215	0.3428
-166	"SRX2163949"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9721	0.7252
-167	"SRX2163950"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9734	0.703
-168	"SRX2202775"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Young adult"	"None"	"None"	0.973	0.5484
-169	"SRX2202776"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Young adult"	"None"	"None"	0.9742	0.5138
-170	"SRX2202779"	"ce10"	"TFs and others"	"hpl-2"	"Adult"	"Young adult"	"None"	"None"	0.9382	0.4845
-171	"SRX2202780"	"ce10"	"TFs and others"	"hpl-2"	"Adult"	"Young adult"	"None"	"None"	0.9420000000000001	0.4515
-172	"SRX2202781"	"ce10"	"TFs and others"	"let-418"	"Adult"	"Young adult"	"None"	"None"	0.9520000000000001	0.4621
-173	"SRX2202782"	"ce10"	"TFs and others"	"let-418"	"Adult"	"Young adult"	"None"	"None"	0.9577	0.517
-174	"SRX2202783"	"ce10"	"TFs and others"	"lin-13"	"Adult"	"Young adult"	"None"	"None"	0.956	0.6295
-175	"SRX2202784"	"ce10"	"TFs and others"	"lin-13"	"Adult"	"Young adult"	"None"	"None"	0.9567	0.6512
-176	"SRX2202785"	"ce10"	"TFs and others"	"lin-61"	"Adult"	"Young adult"	"None"	"None"	0.9285	0.4623
-177	"SRX2202786"	"ce10"	"TFs and others"	"lin-61"	"Adult"	"Young adult"	"None"	"None"	0.929	0.4464
-178	"SRX2202787"	"ce10"	"TFs and others"	"met-2"	"Adult"	"Young adult"	"None"	"None"	0.9561	0.5445
-179	"SRX2202788"	"ce10"	"TFs and others"	"met-2"	"Adult"	"Young adult"	"None"	"None"	0.9561	0.5656
-180	"SRX222638"	"ce10"	"TFs and others"	"C16A3.4"	"Larvae"	"L1"	"None"	"None"	0.9925	0.4501
-181	"SRX222639"	"ce10"	"TFs and others"	"C16A3.4"	"Larvae"	"L1"	"None"	"None"	0.9858	0.5307
-182	"SRX222642"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L4"	"None"	"None"	0.9874	0.5977
-183	"SRX222643"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L4"	"None"	"None"	0.9891	0.6082
-184	"SRX2228847"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9889	0.3882
-185	"SRX2228848"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9791	0.4484
-186	"SRX2228849"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8567	0.4167
-187	"SRX2228850"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9479	0.3187
-188	"SRX2228851"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8846	0.2214
-189	"SRX2228852"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9895	0.3562
-190	"SRX2228853"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9921	0.2696
-191	"SRX2228854"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9882	0.455
-192	"SRX2228855"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.986	0.3465
-193	"SRX2228856"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9236	0.2837
-194	"SRX2228857"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9898	0.3977
-195	"SRX2228858"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9965	0.4953
-196	"SRX2228860"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9622	0.4335
-197	"SRX2228861"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9494	0.3216
-198	"SRX2228862"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9648	0.299
-199	"SRX2228866"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9644	0.6776
-200	"SRX2228867"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.976	0.6771
-201	"SRX2228868"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9783	0.6409
-202	"SRX2228869"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9926	0.3454
-203	"SRX2228870"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9892	0.2663
-204	"SRX2228871"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9821	0.3368
-205	"SRX2228872"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9773	0.3044
-206	"SRX2228875"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9883	0.511
-207	"SRX2228876"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9809	0.4793
-208	"SRX2228877"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8601	0.3681
-209	"SRX2228878"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9823	0.1859
-210	"SRX2228879"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9759	0.2926
-211	"SRX2228880"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9893	0.2445
-212	"SRX2228881"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9831	0.4167
-213	"SRX2228882"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9946	0.2358
-214	"SRX2228883"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9874	0.3866
-215	"SRX2228884"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9793	0.3237
-216	"SRX2228885"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.7553	0.1736
-217	"SRX2228887"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9688	0.4236
-218	"SRX2228888"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9732	0.2099
-219	"SRX2228889"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9711	0.1338
-220	"SRX2228890"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9736	0.2577
-221	"SRX2228891"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9497	0.2431
-222	"SRX2228892"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9801	0.3353
-223	"SRX233417"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L1"	"None"	"None"	0.9862	0.5969
-224	"SRX233445"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L2"	"None"	"None"	0.9994	0.2673
-225	"SRX233446"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L2"	"None"	"None"	0.9940000000000001	0.28300000000000003
-226	"SRX233449"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L3"	"None"	"None"	0.9857	0.4221
-227	"SRX233450"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L3"	"None"	"None"	0.9777	0.2951
-228	"SRX233453"	"ce10"	"TFs and others"	"lin-15B"	"Larvae"	"L1"	"None"	"None"	0.9973	0.3193
-229	"SRX233457"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L1"	"None"	"nhr-77 transgene"	0.9878	0.4696
-230	"SRX233458"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L1"	"None"	"nhr-77 transgene"	0.9901	0.3932
-231	"SRX233695"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L4"	"None"	"None"	0.9788	0.4337
-232	"SRX233696"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L4"	"None"	"None"	0.98	0.4255
-233	"SRX234912"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L1"	"None"	"None"	0.9934	0.3771
-234	"SRX234913"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L1"	"None"	"None"	0.9979	0.2709
-235	"SRX234917"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L3"	"None"	"None"	0.9922	0.261
-236	"SRX234921"	"ce10"	"TFs and others"	"nhr-116"	"Larvae"	"L4"	"None"	"nhr-116 transgene"	0.9996	0.2863
-237	"SRX234924"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L1"	"None"	"None"	0.9684	0.4983
-238	"SRX2350718"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9855	0.4638
-239	"SRX2350719"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9898	0.21899999999999997
-240	"SRX2350721"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9956	0.245
-241	"SRX2350722"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9913	0.3789
-242	"SRX2350724"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9965	0.4623
-243	"SRX2350725"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9964	0.3881
-244	"SRX2350742"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9812	0.0724
-245	"SRX2350744"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9673	0.1039
-246	"SRX2350747"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9726	0.0247
-247	"SRX2350748"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9947	0.0575
-248	"SRX2350749"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9776	0.0767
-249	"SRX2350750"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9788	0.1035
-250	"SRX2350751"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9718	0.0694
-251	"SRX2350752"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.982	0.0805
-252	"SRX2350753"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9833	0.0547
-253	"SRX2350754"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9790000000000001	0.0831
-254	"SRX2350755"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9801	0.0743
-255	"SRX2350756"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.98	0.0416
-256	"SRX235172"	"ce10"	"TFs and others"	"sptf-1"	"Larvae"	"L1"	"None"	"sptf-1 transgene"	0.9994	0.2152
-257	"SRX2370185"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"sulfomethaxozale exposure"	"None"	0.9783	0.5347
-258	"SRX2370186"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9994	0.6931
-259	"SRX246029"	"ce10"	"Histone"	"hcp-4"	"Embryo"	"Embryos"	"None"	"None"	0.978	0.3493
-260	"SRX257640"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9211	0.3385
-261	"SRX257641"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8892	0.1917
-262	"SRX257643"	"ce10"	"TFs and others"	"capg-1"	"Embryo"	"Embryos"	"None"	"None"	0.9863	0.5852
-263	"SRX257645"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9806	0.33299999999999996
-264	"SRX257646"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9734	0.414
-265	"SRX257647"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9905	0.4039
-266	"SRX257648"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9924	0.3892
-267	"SRX257649"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9895	0.4932
-268	"SRX257650"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.982	0.2954
-269	"SRX257652"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9743	0.3328
-270	"SRX257653"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9755	0.2618
-271	"SRX257655"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.988	0.3742
-272	"SRX257656"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9834	0.3587
-273	"SRX257657"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9629	0.3072
-274	"SRX257661"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9853	0.5465
-275	"SRX2576623"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9866	0.5196
-276	"SRX2576624"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9883	0.5939
-277	"SRX2576625"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9898	0.4038
-278	"SRX2576626"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9834	0.5623
-279	"SRX2576627"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9836	0.5962
-280	"SRX2576628"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9833	0.6648
-281	"SRX2576629"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.991	0.5105
-282	"SRX257663"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9797	0.5019
-283	"SRX2576630"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9851	0.6195
-284	"SRX2576631"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9885	0.361
-285	"SRX2576632"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"None"	0.9822	0.5202
-286	"SRX2576633"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"None"	0.9725	0.5076
-287	"SRX2576634"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9929	0.5641
-288	"SRX2576635"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.983	0.2437
-289	"SRX2576636"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9812	0.5561
-290	"SRX2576637"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9778	0.5078
-291	"SRX2576638"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9819	0.6809
-292	"SRX2576639"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9885	0.5297
-293	"SRX257664"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9932	0.4069
-294	"SRX2576640"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9886	0.7189
-295	"SRX2576641"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9886	0.4849
-296	"SRX2576642"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.9812	0.6695
-297	"SRX2576643"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9939	0.3991
-298	"SRX2576644"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9881	0.7048
-299	"SRX2576645"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9911	0.3499
-300	"SRX2576646"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9834	0.5527
-301	"SRX2576647"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9857	0.6053
-302	"SRX2576648"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9863	0.6943
-303	"SRX2576649"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9858	0.5463
-304	"SRX2576650"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9865	0.7229
-305	"SRX2576651"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9934	0.3796
-306	"SRX2576652"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9841	0.5837
-307	"SRX2576653"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9745	0.5519
-308	"SRX2576654"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9841	0.7092
-309	"SRX2576655"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9947	0.4608
-310	"SRX2576656"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9856	0.7025
-311	"SRX2576657"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9862	0.4795
-312	"SRX257667"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9803	0.3272
-313	"SRX257668"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9792	0.3105
-314	"SRX257669"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9903	0.2959
-315	"SRX257670"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9933	0.4826
-316	"SRX257672"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Embryos"	"None"	"None"	0.9532	0.6633
-317	"SRX257674"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.987	0.532
-318	"SRX257675"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.9818	0.4547
-319	"SRX257676"	"ce10"	"TFs and others"	"mix-1"	"Embryo"	"Embryos"	"None"	"None"	0.9899	0.4949
-320	"SRX257681"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9965	0.2619
-321	"SRX257682"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9847	0.4199
-322	"SRX257683"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9671	0.4666
-323	"SRX257684"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9883	0.3715
-324	"SRX257685"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9841	0.4038
-325	"SRX257686"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9836	0.2193
-326	"SRX257687"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9876	0.3724
-327	"SRX257688"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9946	0.5682
-328	"SRX2599461"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9421	0.3715
-329	"SRX2599462"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9508	0.3254
-330	"SRX2710280"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mid embryo"	"None"	"None"	0.9591	0.6564
-331	"SRX2710281"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mid embryo"	"None"	"None"	0.9619	0.7236
-332	"SRX2761380"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9912	0.1398
-333	"SRX2761381"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9979	0.4415
-334	"SRX2761382"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9196	0.3489
-335	"SRX2761383"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9877	0.2289
-336	"SRX2761384"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9925	0.1555
-337	"SRX2761385"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9441	0.4556
-338	"SRX276907"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L4"	"None"	"None"	0.9873	0.1712
-339	"SRX276908"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L4"	"None"	"None"	0.9793	0.1701
-340	"SRX277027"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L3"	"None"	"None"	0.9768	0.2939
-341	"SRX277043"	"ce10"	"TFs and others"	"unc-39"	"Embryo"	"Embryos"	"None"	"None"	0.9997	0.5094
-342	"SRX277044"	"ce10"	"TFs and others"	"unc-39"	"Embryo"	"Embryos"	"None"	"None"	0.9995	0.1497
-343	"SRX277051"	"ce10"	"TFs and others"	"elt-3"	"Embryo"	"Embryos"	"None"	"None"	0.9567	0.4542
-344	"SRX277052"	"ce10"	"TFs and others"	"elt-3"	"Embryo"	"Embryos"	"None"	"None"	0.9737	0.2687
-345	"SRX277059"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L1"	"None"	"None"	0.9761	0.3132
-346	"SRX277060"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L1"	"None"	"None"	0.9719	0.3105
-347	"SRX277063"	"ce10"	"TFs and others"	"nhr-10"	"Larvae"	"L4"	"None"	"None"	0.9919	0.0414
-348	"SRX277064"	"ce10"	"TFs and others"	"nhr-10"	"Larvae"	"L4"	"None"	"None"	0.9869	0.0805
-349	"SRX277067"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L4"	"None"	"None"	0.9540000000000001	0.3838
-350	"SRX277068"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L4"	"None"	"None"	0.9798	0.4212
-351	"SRX277071"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L3"	"None"	"None"	0.9731	0.4352
-352	"SRX277072"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L3"	"None"	"None"	0.9766	0.4397
-353	"SRX277075"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L2"	"None"	"None"	0.9846	0.4812
-354	"SRX277076"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L2"	"None"	"None"	0.9867	0.4578
-355	"SRX277079"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L4"	"None"	"None"	0.9843	0.3772
-356	"SRX277080"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L4"	"None"	"None"	0.976	0.3612
-357	"SRX277088"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L1"	"None"	"None"	0.9856	0.5054
-358	"SRX277089"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L1"	"None"	"None"	0.9839	0.5274
-359	"SRX277092"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L2"	"None"	"None"	0.9787	0.4984
-360	"SRX277093"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L2"	"None"	"None"	0.9752	0.47700000000000004
-361	"SRX277096"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L4"	"None"	"None"	0.9821	0.3772
-362	"SRX277097"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L4"	"None"	"None"	0.9864	0.3736
-363	"SRX277100"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L2"	"None"	"None"	0.9751	0.1828
-364	"SRX277101"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L2"	"None"	"None"	0.9723	0.3155
-365	"SRX277104"	"ce10"	"TFs and others"	"nhr-21"	"Larvae"	"L2"	"None"	"None"	0.9523	0.3379
-366	"SRX277105"	"ce10"	"TFs and others"	"nhr-21"	"Larvae"	"L2"	"None"	"None"	0.9491	0.3644
-367	"SRX2965744"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"set-9 (rw5), set-26 (tm2467)"	0.9782	0.7317
-368	"SRX3043399"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9753	0.62
-369	"SRX3043400"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9549	0.6098
-370	"SRX3043401"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9864	0.539
-371	"SRX3043402"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9788	0.6109
-372	"SRX3043403"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9678	0.6129
-373	"SRX3043404"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9819	0.1968
-374	"SRX3043405"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9957	0.5239
-375	"SRX3043407"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9571	0.5588
-376	"SRX3043408"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9613	0.49200000000000005
-377	"SRX3043409"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9987	0.5353
-378	"SRX3043410"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9368	0.4855
-379	"SRX3043417"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9875	0.5979
-380	"SRX3043418"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9716	0.7085
-381	"SRX3043420"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9851	0.4468
-382	"SRX312079"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.9827	0.4296
-383	"SRX312080"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.991	0.5196
-384	"SRX312081"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9743	0.3774
-385	"SRX323682"	"ce10"	"TFs and others"	"tra-1"	"Larvae"	"L3"	"None"	"None"	0.9512	0.1752
-386	"SRX330983"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9766	0.657
-387	"SRX330984"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9812	0.5106
-388	"SRX330985"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9799	0.537
-389	"SRX330986"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9876	0.5343
-390	"SRX331070"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L1"	"None"	"None"	0.9725	0.5703
-391	"SRX331074"	"ce10"	"TFs and others"	"C34F6.9"	"Larvae"	"L2"	"None"	"None"	0.9754	0.6003
-392	"SRX331076"	"ce10"	"TFs and others"	"C34F6.9"	"Larvae"	"L2"	"None"	"None"	0.9689	0.5485
-393	"SRX331088"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L1"	"None"	"None"	0.9849	0.6458
-394	"SRX331098"	"ce10"	"TFs and others"	"nhr-129"	"Larvae"	"L2"	"None"	"None"	0.9686	0.529
-395	"SRX331100"	"ce10"	"TFs and others"	"nhr-129"	"Larvae"	"L2"	"None"	"None"	0.9682	0.527
-396	"SRX331104"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L1"	"None"	"None"	0.9772	0.379
-397	"SRX331106"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"None"	0.9836	0.6303
-398	"SRX331108"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"None"	0.9823	0.6593
-399	"SRX331110"	"ce10"	"TFs and others"	"sem-4"	"Larvae"	"L2"	"None"	"None"	0.9765	0.3415
-400	"SRX331118"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L1"	"None"	"None"	0.9868	0.2635
-401	"SRX331122"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.9326	0.2888
-402	"SRX331124"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.9328	0.2785
-403	"SRX331126"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.93	0.2995
-404	"SRX331132"	"ce10"	"TFs and others"	"nhr-23"	"Larvae"	"L3"	"None"	"None"	0.9652	0.3393
-405	"SRX331148"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L4"	"None"	"None"	0.9548	0.47
-406	"SRX331150"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L4"	"None"	"None"	0.9570000000000001	0.4596
-407	"SRX331162"	"ce10"	"TFs and others"	"lsy-2"	"Embryo"	"Embryos"	"None"	"None"	0.9484	0.3488
-408	"SRX331166"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.961	0.5263
-409	"SRX331168"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9719	0.5517
-410	"SRX331170"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9670000000000001	0.6086
-411	"SRX331172"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9658	0.6009
-412	"SRX331174"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L2"	"None"	"None"	0.9965	0.1954
-413	"SRX331182"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L1"	"None"	"None"	0.9961	0.1
-414	"SRX331184"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L1"	"None"	"None"	0.9947	0.1075
-415	"SRX331186"	"ce10"	"TFs and others"	"nhr-237"	"Embryo"	"Embryos"	"None"	"None"	0.995	0.3734
-416	"SRX331188"	"ce10"	"TFs and others"	"nhr-237"	"Embryo"	"Embryos"	"None"	"None"	0.9946	0.3952
-417	"SRX331190"	"ce10"	"TFs and others"	"pax-1"	"Embryo"	"Embryos"	"None"	"None"	0.9607	0.239
-418	"SRX331192"	"ce10"	"TFs and others"	"pax-1"	"Embryo"	"Embryos"	"None"	"None"	0.9316	0.1974
-419	"SRX331194"	"ce10"	"TFs and others"	"ces-1"	"Embryo"	"Embryos"	"None"	"None"	0.9319	0.3371
-420	"SRX331196"	"ce10"	"TFs and others"	"ces-1"	"Embryo"	"Embryos"	"None"	"None"	0.9318	0.35100000000000003
-421	"SRX331198"	"ce10"	"TFs and others"	"ceh-39"	"Embryo"	"Embryos"	"None"	"None"	0.9825	0.4861
-422	"SRX331200"	"ce10"	"TFs and others"	"ceh-39"	"Embryo"	"Embryos"	"None"	"None"	0.9823	0.0776
-423	"SRX331202"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L3"	"None"	"None"	0.9839	0.1328
-424	"SRX331204"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L3"	"None"	"None"	0.9658	0.2563
-425	"SRX331206"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L4"	"None"	"None"	0.9831	0.3862
-426	"SRX331208"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L4"	"None"	"None"	0.9811	0.4045
-427	"SRX331210"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L2"	"None"	"None"	0.9959	0.1889
-428	"SRX331222"	"ce10"	"TFs and others"	"unc-62"	"Embryo"	"Embryos"	"None"	"None"	0.9737	0.3359
-429	"SRX331224"	"ce10"	"TFs and others"	"unc-62"	"Embryo"	"Embryos"	"None"	"None"	0.9848	0.2651
-430	"SRX331226"	"ce10"	"TFs and others"	"nhr-28"	"Embryo"	"Embryos"	"None"	"None"	0.9936	0.2979
-431	"SRX331228"	"ce10"	"TFs and others"	"nhr-28"	"Embryo"	"Embryos"	"None"	"None"	0.9996	0.2689
-432	"SRX331230"	"ce10"	"TFs and others"	"nhr-11"	"Embryo"	"Late embryo"	"None"	"None"	0.9626	0.6822
-433	"SRX331232"	"ce10"	"TFs and others"	"nhr-11"	"Embryo"	"Late embryo"	"None"	"None"	0.9969	0.7103
-434	"SRX331234"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L1"	"None"	"None"	0.9731	0.3527
-435	"SRX331236"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L1"	"None"	"None"	0.9812	0.2643
-436	"SRX331238"	"ce10"	"TFs and others"	"nhr-28"	"Larvae"	"L1"	"None"	"None"	0.9670000000000001	0.4705
-437	"SRX331242"	"ce10"	"TFs and others"	"nhr-2"	"Embryo"	"Embryos"	"None"	"None"	0.9653	0.3035
-438	"SRX331244"	"ce10"	"TFs and others"	"nhr-2"	"Embryo"	"Embryos"	"None"	"None"	0.9584	0.1795
-439	"SRX331250"	"ce10"	"TFs and others"	"fkh-10"	"Larvae"	"L4"	"None"	"None"	0.9969	0.1082
-440	"SRX331252"	"ce10"	"TFs and others"	"fkh-10"	"Larvae"	"L4"	"None"	"None"	0.9733	0.1517
-441	"SRX331258"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L1"	"None"	"None"	0.9740000000000001	0.2873
-442	"SRX331260"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L1"	"None"	"None"	0.9843	0.21899999999999997
-443	"SRX331262"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L4"	"None"	"None"	0.9596	0.1537
-444	"SRX331268"	"ce10"	"RNA polymerase"	"RNA polymerase III"	"Adult"	"Young adult"	"None"	"None"	0.9851	0.575
-445	"SRX331272"	"ce10"	"TFs and others"	"unc-55"	"Larvae"	"L2"	"None"	"None"	0.968	0.5618
-446	"SRX331274"	"ce10"	"TFs and others"	"unc-55"	"Larvae"	"L2"	"None"	"None"	0.9646	0.5143
-447	"SRX331278"	"ce10"	"TFs and others"	"blmp-1"	"Embryo"	"Embryos"	"None"	"None"	0.9048	0.1493
-448	"SRX331290"	"ce10"	"TFs and others"	"ztf-11"	"Embryo"	"Embryos"	"None"	"None"	0.9968	0.1696
-449	"SRX331294"	"ce10"	"TFs and others"	"zip-2"	"Larvae"	"L4"	"None"	"None"	0.9566	0.127
-450	"SRX331296"	"ce10"	"TFs and others"	"zip-2"	"Larvae"	"L4"	"None"	"None"	0.973	0.107
-451	"SRX331300"	"ce10"	"TFs and others"	"dve-1"	"Larvae"	"L4"	"None"	"None"	0.9585	0.4361
-452	"SRX331302"	"ce10"	"TFs and others"	"dve-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9854	0.34700000000000003
-453	"SRX331304"	"ce10"	"TFs and others"	"dve-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9794	0.4148
-454	"SRX331306"	"ce10"	"TFs and others"	"F23B12.7"	"Adult"	"Young adult"	"None"	"None"	0.9879	0.3862
-455	"SRX331314"	"ce10"	"TFs and others"	"hlh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9876	0.27899999999999997
-456	"SRX331316"	"ce10"	"TFs and others"	"hlh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9335	0.3294
-457	"SRX331318"	"ce10"	"TFs and others"	"med-1"	"Embryo"	"Embryos"	"None"	"None"	0.9898	0.2042
-458	"SRX331320"	"ce10"	"TFs and others"	"med-1"	"Embryo"	"Embryos"	"None"	"None"	0.9911	0.2263
-459	"SRX331322"	"ce10"	"TFs and others"	"nfya-1"	"Larvae"	"L3"	"None"	"None"	0.9625	0.5789
-460	"SRX331324"	"ce10"	"TFs and others"	"nfya-1"	"Larvae"	"L3"	"None"	"None"	0.9657	0.5775
-461	"SRX331326"	"ce10"	"TFs and others"	"nfya-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9715	0.4961
-462	"SRX331328"	"ce10"	"TFs and others"	"nfya-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9729	0.4574
-463	"SRX331340"	"ce10"	"Histone"	"H3K79me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9623	0.5720000000000001
-464	"SRX331343"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9606	0.4256
-465	"SRX331344"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9782	0.397
-466	"SRX331347"	"ce10"	"Histone"	"H3K9acS10ph"	"Larvae"	"L3"	"None"	"None"	0.9798	0.2542
-467	"SRX331348"	"ce10"	"Histone"	"H3K9acS10ph"	"Larvae"	"L3"	"None"	"None"	0.9357	0.1381
-468	"SRX331351"	"ce10"	"Histone"	"H4K8ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.985	0.413
-469	"SRX331352"	"ce10"	"Histone"	"H4K8ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9843	0.4379
-470	"SRX331355"	"ce10"	"TFs and others"	"mis-12"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9997	0.6681
-471	"SRX331356"	"ce10"	"TFs and others"	"mis-12"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9996	0.6722
-472	"SRX331363"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9847	0.5862
-473	"SRX331364"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9795	0.1881
-474	"SRX335103"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Late embryo"	"None"	"None"	0.973	0.6994
-475	"SRX335104"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Late embryo"	"None"	"None"	0.9723	0.6914
-476	"SRX341784"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.6273	0.0553
-477	"SRX341785"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8943	0.1194
-478	"SRX341786"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9194	0.0636
-479	"SRX341787"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9431	0.0975
-480	"SRX341788"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9594	0.6873
-481	"SRX341789"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9521	0.6933
-482	"SRX3583336"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"set-9 (rw5), set-26 (tm2467)"	0.9887	0.6721
-483	"SRX3583340"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141)"	0.9616	0.7116
-484	"SRX3583341"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141)"	0.9758	0.7351
-485	"SRX3583342"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141), set-26 (tm2467)"	0.9676	0.7108
-486	"SRX3583343"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141), set-26 (tm2467)"	0.9834	0.7291
-487	"SRX373265"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9995	0.4981
-488	"SRX373266"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9832	0.4224
-489	"SRX373267"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9834	0.5058
-490	"SRX373268"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9737	0.5228
-491	"SRX373270"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9997	0.6738
-492	"SRX373271"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9925	0.6125
-493	"SRX3942553"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"None"	"None"	0.8971	0.2453
-494	"SRX3942556"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.9416	0.2876
-495	"SRX3942557"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"DMSO 0.1%"	"None"	0.9615	0.4252
-496	"SRX3942558"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"BPA 100uM"	"None"	0.941	0.2737
-497	"SRX4012474"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"None"	0.9868	0.711
-498	"SRX4012476"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"None"	0.9842	0.8049
-499	"SRX4012478"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"arle-14 (tm6845)"	0.9795	0.7046
-500	"SRX4012480"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"arle-14 (tm6845)"	0.9878	0.8487
-501	"SRX4082334"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9634	0.6954
-502	"SRX4082335"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9684	0.7066
-503	"SRX4082336"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L1"	"None"	"None"	0.9645	0.6856
-504	"SRX4082337"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L1"	"None"	"None"	0.968	0.7024
-505	"SRX4082338"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L2"	"None"	"None"	0.9648	0.6949
-506	"SRX4082339"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L2"	"None"	"None"	0.9657	0.7040000000000001
-507	"SRX4082340"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9616	0.7
-508	"SRX4082341"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9672	0.6969
-509	"SRX4082342"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9647	0.7266
-510	"SRX4082343"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9662	0.7379
-511	"SRX4082344"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Young adult"	"None"	"None"	0.9587	0.7124
-512	"SRX4082345"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Young adult"	"None"	"None"	0.9589	0.7024
-513	"SRX4082346"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9623	0.0234
-514	"SRX4082347"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9564	0.0605
-515	"SRX4082358"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9665	0.5499
-516	"SRX4082359"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9674	0.5443
-517	"SRX4082360"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L1"	"None"	"None"	0.9609	0.6129
-518	"SRX4082361"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L1"	"None"	"None"	0.9602	0.6036
-519	"SRX4082362"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L2"	"None"	"None"	0.9609	0.6045
-520	"SRX4082363"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L2"	"None"	"None"	0.958	0.6336
-521	"SRX4082364"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9559	0.6309
-522	"SRX4082365"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9528	0.5736
-523	"SRX4082366"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L4"	"None"	"None"	0.9648	0.5295
-524	"SRX4082368"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9637	0.6588
-525	"SRX4082369"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9635	0.6249
-526	"SRX4082372"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L1"	"None"	"None"	0.9924	0.1623
-527	"SRX4082373"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L1"	"None"	"None"	0.9858	0.2767
-528	"SRX4082374"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L2"	"None"	"None"	0.9937	0.2097
-529	"SRX4082378"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L4"	"None"	"None"	0.9908	0.2539
-530	"SRX4082379"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L4"	"None"	"None"	0.9879	0.2841
-531	"SRX4082380"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Young adult"	"None"	"None"	0.9922	0.2455
-532	"SRX4082381"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Young adult"	"None"	"None"	0.9949	0.4021
-533	"SRX4085339"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9672	0.3595
-534	"SRX4085340"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9835	0.3727
-535	"SRX4085341"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9836	0.5188
-536	"SRX4085342"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9834	0.4847
-537	"SRX4085343"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9836	0.4488
-538	"SRX4085344"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9768	0.1407
-539	"SRX4085348"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9557	0.4019
-540	"SRX4085351"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9791	0.5626
-541	"SRX4085356"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9792	0.4889
-542	"SRX4085358"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9823	0.4551
-543	"SRX4085359"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9762	0.3556
-544	"SRX4085360"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9814	0.43700000000000006
-545	"SRX4085370"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9844	0.5486
-546	"SRX4085371"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.965	0.2162
-547	"SRX4085374"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9854	0.5803
-548	"SRX4085375"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9738	0.5035
-549	"SRX4085376"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9856	0.5722
-550	"SRX4085377"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9831	0.5356
-551	"SRX4085378"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9809	0.589
-552	"SRX4085379"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9534	0.2718
-553	"SRX4085383"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9740000000000001	0.4904
-554	"SRX4085384"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9601	0.4896
-555	"SRX4085385"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9835	0.5219
-556	"SRX4085386"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9848	0.4988
-557	"SRX4085387"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9799	0.4559
-558	"SRX4085388"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9428	0.1437
-559	"SRX4085393"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9235	0.3699
-560	"SRX4085394"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9738	0.4583
-561	"SRX4085395"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9829	0.5335
-562	"SRX4085397"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9795	0.5377
-563	"SRX4085398"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9783	0.5155
-564	"SRX4085399"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9725	0.3354
-565	"SRX4085400"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9839	0.5576
-566	"SRX4085401"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9852	0.5677
-567	"SRX4085403"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9773	0.5706
-568	"SRX4085405"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9876	0.4739
-569	"SRX4085406"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9316	0.3128
-570	"SRX4085410"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9798	0.5145
-571	"SRX4085412"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9787	0.6204
-572	"SRX4085413"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9787	0.6255
-573	"SRX4085414"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.98	0.5908
-574	"SRX4085415"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.8758	0.2377
-575	"SRX4085418"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.976	0.5055
-576	"SRX4085419"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9840000000000001	0.5763
-577	"SRX4085420"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9857	0.5905
-578	"SRX4085421"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9838	0.5899
-579	"SRX4085424"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9415	0.1772
-580	"SRX4085427"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9604	0.3196
-581	"SRX4085429"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9624	0.2983
-582	"SRX4085430"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9654	0.1671
-583	"SRX4085436"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9206	0.1106
-584	"SRX4085438"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9807	0.5893
-585	"SRX4085439"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9792	0.555
-586	"SRX4085440"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9773	0.5267
-587	"SRX4085441"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9414	0.3816
-588	"SRX4200539"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Sperm"	"None"	"None"	0.836	0.1636
-589	"SRX4387978"	"ce10"	"Histone"	"H3K27ac"	"Adult"	"Young adult"	"None"	"None"	0.9709	0.5416
-590	"SRX4387980"	"ce10"	"Histone"	"H3K27ac"	"Adult"	"Young adult"	"None"	"None"	0.9249	0.1851
-591	"SRX463082"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9704	0.4094
-592	"SRX466457"	"ce10"	"Histone"	"H3K79me3"	"Larvae"	"L3"	"None"	"None"	0.9690000000000001	0.1335
-593	"SRX466458"	"ce10"	"Histone"	"H3K79me3"	"Larvae"	"L3"	"None"	"None"	0.9788	0.1492
-594	"SRX466461"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.9753	0.2758
-595	"SRX466462"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.97	0.3105
-596	"SRX466466"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.9547	0.4861
-597	"SRX466469"	"ce10"	"Histone"	"H3K36me2"	"Larvae"	"L3"	"None"	"None"	0.9571	0.0957
-598	"SRX466473"	"ce10"	"Histone"	"H3K36ac"	"Larvae"	"L3"	"None"	"None"	0.946	0.2189
-599	"SRX466474"	"ce10"	"Histone"	"H3K36ac"	"Larvae"	"L3"	"None"	"None"	0.9167	0.3602
-600	"SRX466477"	"ce10"	"Histone"	"H3K27me1"	"Larvae"	"L3"	"None"	"None"	0.9846	0.1513
-601	"SRX466478"	"ce10"	"Histone"	"H3K27me1"	"Larvae"	"L3"	"None"	"None"	0.9215	0.2589
-602	"SRX466481"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L3"	"None"	"None"	0.9868	0.4881
-603	"SRX466482"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L3"	"None"	"None"	0.9911	0.4331
-604	"SRX466485"	"ce10"	"Histone"	"H3K18ac"	"Larvae"	"L3"	"None"	"None"	0.9742	0.1008
-605	"SRX466486"	"ce10"	"Histone"	"H3K18ac"	"Larvae"	"L3"	"None"	"None"	0.9769	0.3053
-606	"SRX466489"	"ce10"	"Histone"	"H3K79me2"	"Larvae"	"L3"	"None"	"None"	0.9666	0.157
-607	"SRX466493"	"ce10"	"Histone"	"H3K36me1"	"Larvae"	"L3"	"None"	"None"	0.9768	0.255
-608	"SRX466498"	"ce10"	"Histone"	"H3K9me2"	"Larvae"	"L3"	"None"	"None"	0.976	0.5066
-609	"SRX466501"	"ce10"	"Histone"	"H3K9acS10ph"	"Embryo"	"Early embryo"	"None"	"None"	0.9803	0.1439
-610	"SRX466502"	"ce10"	"Histone"	"H3K9acS10ph"	"Embryo"	"Early embryo"	"None"	"None"	0.9869	0.2463
-611	"SRX466505"	"ce10"	"Histone"	"H3K23ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9773	0.0712
-612	"SRX466506"	"ce10"	"Histone"	"H3K23ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9871	0.5151
-613	"SRX466509"	"ce10"	"Histone"	"H3K18ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9552	0.3784
-614	"SRX466510"	"ce10"	"Histone"	"H3K18ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9535	0.4119
-615	"SRX466513"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9434	0.3737
-616	"SRX466514"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9590000000000001	0.4178
-617	"SRX466517"	"ce10"	"Histone"	"H3K4me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9386	0.409
-618	"SRX466518"	"ce10"	"Histone"	"H3K4me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9329	0.4146
-619	"SRX466521"	"ce10"	"Histone"	"H3K27ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9494	0.6105
-620	"SRX466522"	"ce10"	"Histone"	"H3K27ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9565	0.478
-621	"SRX466525"	"ce10"	"Histone"	"H3K27me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9812	0.2067
-622	"SRX466526"	"ce10"	"Histone"	"H3K27me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9739	0.0842
-623	"SRX466529"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Early embryo"	"None"	"None"	0.963	0.6414
-624	"SRX466530"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9679	0.6375
-625	"SRX466533"	"ce10"	"Histone"	"H4K8ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9758	0.0623
-626	"SRX466534"	"ce10"	"Histone"	"H4K8ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9621	0.05
-627	"SRX466537"	"ce10"	"Histone"	"H3K27me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9918	0.1938
-628	"SRX466538"	"ce10"	"Histone"	"H3K27me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9926	0.2681
-629	"SRX466541"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9647	0.6688
-630	"SRX466542"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9874	0.4943
-631	"SRX466554"	"ce10"	"Histone"	"H3K79me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9353	0.4813
-632	"SRX466557"	"ce10"	"Histone"	"H3K79me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9425	0.4431
-633	"SRX466558"	"ce10"	"Histone"	"H3K79me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9353	0.4682
-634	"SRX466565"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9890000000000001	0.2434
-635	"SRX466566"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9996	0.7016
-636	"SRX466568"	"ce10"	"TFs and others"	"scc-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9474	0.5572
-637	"SRX466571"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9807	0.6138
-638	"SRX466572"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9925	0.483
-639	"SRX466575"	"ce10"	"TFs and others"	"him-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8727	0.3855
-640	"SRX466576"	"ce10"	"TFs and others"	"him-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8596	0.414
-641	"SRX466579"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L3"	"None"	"None"	0.9543	0.5251
-642	"SRX466583"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9557	0.5005
-643	"SRX466584"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9748	0.6671
-644	"SRX466587"	"ce10"	"TFs and others"	"hcp-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9715	0.5605
-645	"SRX466588"	"ce10"	"TFs and others"	"hcp-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9997	0.5553
-646	"SRX467177"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"lin-35 (n745)"	0.9840000000000001	0.6515
-647	"SRX467179"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"lin-35 (n745)"	0.9877	0.6291
-648	"SRX494821"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.9843	0.4668
-649	"SRX494822"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.985	0.35600000000000004
-650	"SRX494825"	"ce10"	"TFs and others"	"him-17"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.97	0.1511
-651	"SRX494826"	"ce10"	"TFs and others"	"him-17"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.973	0.0644
-652	"SRX494835"	"ce10"	"Histone"	"H3"	"Embryo"	"Early embryo"	"None"	"None"	0.9436	0.5551
-653	"SRX494839"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.8711	0.5345
-654	"SRX494843"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9445	0.40299999999999997
-655	"SRX494846"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9667	0.0089
-656	"SRX494847"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9671	0.0096
-657	"SRX494850"	"ce10"	"Histone"	"H3K36me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9334	0.3924
-658	"SRX494851"	"ce10"	"Histone"	"H3K36me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9478	0.2143
-659	"SRX494855"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9732	0.5975
-660	"SRX494858"	"ce10"	"Histone"	"H3K14ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9924	0.4433
-661	"SRX494859"	"ce10"	"Histone"	"H3K14ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9765	0.537
-662	"SRX494861"	"ce10"	"TFs and others"	"scc-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9663	0.5312
-663	"SRX494867"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.976	0.3857
-664	"SRX494868"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9718	0.4282
-665	"SRX494870"	"ce10"	"TFs and others"	"chd-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9892	0.3618
-666	"SRX494873"	"ce10"	"TFs and others"	"msh-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9595	0.308
-667	"SRX494874"	"ce10"	"TFs and others"	"msh-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9774	0.2263
-668	"SRX494877"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.96	0.555
-669	"SRX494880"	"ce10"	"TFs and others"	"chd-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9620000000000001	0.2859
-670	"SRX494884"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9659	0.5176
-671	"SRX494885"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.966	0.5152
-672	"SRX494887"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9766	0.6266
-673	"SRX494889"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9758	0.6184
-674	"SRX494892"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9479	0.1898
-675	"SRX494893"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9637	0.3406
-676	"SRX494896"	"ce10"	"TFs and others"	"zim-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9609	0.4655
-677	"SRX494897"	"ce10"	"TFs and others"	"zim-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9593	0.5238
-678	"SRX494900"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9698	0.5451
-679	"SRX494901"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9758	0.5273
-680	"SRX494904"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9592	0.519
-681	"SRX494905"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9554	0.5492
-682	"SRX494908"	"ce10"	"TFs and others"	"zim-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9490000000000001	0.4966
-683	"SRX494909"	"ce10"	"TFs and others"	"zim-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9553	0.4841
-684	"SRX494912"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9278	0.18600000000000003
-685	"SRX494913"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9318	0.3041
-686	"SRX494917"	"ce10"	"TFs and others"	"ash-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9690000000000001	0.4605
-687	"SRX494920"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9752	0.6708
-688	"SRX494921"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9605	0.2804
-689	"SRX494923"	"ce10"	"TFs and others"	"him-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8686	0.4547
-690	"SRX494926"	"ce10"	"TFs and others"	"him-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9709	0.474
-691	"SRX494929"	"ce10"	"Histone"	"H3S10ph"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9474	0.5725
-692	"SRX494930"	"ce10"	"Histone"	"H3S10ph"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9440000000000001	0.2306
-693	"SRX494933"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9942	0.5427
-694	"SRX494934"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9698	0.6098
-695	"SRX494938"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"None"	0.9893	0.2744
-696	"SRX494941"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9468	0.6166
-697	"SRX494942"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9485	0.6183
-698	"SRX494949"	"ce10"	"TFs and others"	"hda-1"	"Larvae"	"L3"	"None"	"None"	0.981	0.5051
-699	"SRX494950"	"ce10"	"TFs and others"	"hda-1"	"Larvae"	"L3"	"None"	"None"	0.9663	0.5544
-700	"SRX494952"	"ce10"	"TFs and others"	"let-418"	"Larvae"	"L3"	"None"	"None"	0.9792	0.4291
-701	"SRX494957"	"ce10"	"TFs and others"	"let-418"	"Larvae"	"L3"	"None"	"None"	0.9715	0.5424
-702	"SRX494960"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9549	0.35
-703	"SRX494961"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9747	0.4328
-704	"SRX494965"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9828	0.7178
-705	"SRX494968"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9883	0.6871
-706	"SRX494969"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9871	0.6946
-707	"SRX494972"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9798	0.7336
-708	"SRX494973"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9847	0.7042
-709	"SRX494984"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"her-1 (e1520), sdc-2 (y74)"	0.9807	0.6727
-710	"SRX494985"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"her-1 (e1520), sdc-2 (y74)"	0.9677	0.5357
-711	"SRX494988"	"ce10"	"TFs and others"	"zfp-1"	"Larvae"	"L3"	"None"	"None"	0.9784	0.6035
-712	"SRX494989"	"ce10"	"TFs and others"	"zfp-1"	"Larvae"	"L3"	"None"	"None"	0.9741	0.6609999999999999
-713	"SRX494992"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9684	0.7156
-714	"SRX494993"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9745	0.7409
-715	"SRX494996"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9724	0.5562
-716	"SRX494999"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9857	0.5068
-717	"SRX495003"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9433	0.4811
-718	"SRX495004"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8868	0.3425
-719	"SRX495007"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8314	0.146
-720	"SRX495008"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8578	0.1173
-721	"SRX495011"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9914	0.4324
-722	"SRX495015"	"ce10"	"TFs and others"	"cbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9807	0.5135
-723	"SRX495019"	"ce10"	"TFs and others"	"sdc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9890000000000001	0.2977
-724	"SRX495020"	"ce10"	"TFs and others"	"sdc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9833	0.5098
-725	"SRX495027"	"ce10"	"Histone"	"H3K36me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9544	0.1416
-726	"SRX495028"	"ce10"	"Histone"	"H3K36me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9675	0.2787
-727	"SRX495031"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9834	0.3768
-728	"SRX495035"	"ce10"	"TFs and others"	"taf-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9828	0.4673
-729	"SRX495036"	"ce10"	"TFs and others"	"taf-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9867	0.3866
-730	"SRX495039"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9883	0.5364
-731	"SRX495040"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.991	0.3791
-732	"SRX495044"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9652	0.521
-733	"SRX495047"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.995	0.5791
-734	"SRX495048"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9838	0.4948
-735	"SRX495051"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9844	0.4338
-736	"SRX495052"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9902	0.3343
-737	"SRX495055"	"ce10"	"TFs and others"	"mau-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9819	0.4726
-738	"SRX495056"	"ce10"	"TFs and others"	"mau-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9783	0.3251
-739	"SRX495060"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9779	0.3016
-740	"SRX495063"	"ce10"	"TFs and others"	"htp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9625	0.4638
-741	"SRX495064"	"ce10"	"TFs and others"	"htp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9706	0.5609
-742	"SRX495067"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9858	0.5135
-743	"SRX495068"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9754	0.5041
-744	"SRX495071"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9696	0.3061
-745	"SRX495072"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.946	0.3998
-746	"SRX495075"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Mixed embryo"	"None"	"None"	0.977	0.2674
-747	"SRX495079"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9688	0.249
-748	"SRX495080"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9872	0.2324
-749	"SRX495084"	"ce10"	"TFs and others"	"smc-6"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9845	0.4091
-750	"SRX495087"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9861	0.5452
-751	"SRX495092"	"ce10"	"TFs and others"	"ash-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9869	0.3966
-752	"SRX495095"	"ce10"	"TFs and others"	"wdr-5.1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9821	0.5618
-753	"SRX495096"	"ce10"	"TFs and others"	"wdr-5.1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9840000000000001	0.6448
-754	"SRX495099"	"ce10"	"RNA polymerase"	"rpc-1"	"Larvae"	"L3"	"None"	"None"	0.9769	0.6096
-755	"SRX495100"	"ce10"	"RNA polymerase"	"rpc-1"	"Larvae"	"L3"	"None"	"None"	0.9809	0.6141
-756	"SRX495103"	"ce10"	"TFs and others"	"him-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9115	0.3828
-757	"SRX495104"	"ce10"	"TFs and others"	"him-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9690000000000001	0.2807
-758	"SRX495107"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Germline containing young adult"	"None"	"None"	0.9946	0.5009
-759	"SRX495111"	"ce10"	"TFs and others"	"jhdm-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9066	0.385
-760	"SRX495112"	"ce10"	"TFs and others"	"jhdm-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9057	0.3066
-761	"SRX495115"	"ce10"	"TFs and others"	"mrg-1"	"Embryo"	"Early embryo"	"None"	"None"	0.981	0.2322
-762	"SRX495116"	"ce10"	"TFs and others"	"mrg-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9889	0.5316
-763	"SRX495120"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.91	0.2705
-764	"SRX495122"	"ce10"	"TFs and others"	"cec-7"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9884	0.5725
-765	"SRX5064640"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9597	0.2857
-766	"SRX5064642"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"None"	0.9551	0.7064
-767	"SRX514729"	"ce10"	"Histone"	"H4K16ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9690000000000001	0.5574
-768	"SRX529208"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9861	0.5807
-769	"SRX529212"	"ce10"	"Histone"	"H3K9ac"	"Larvae"	"L3"	"None"	"None"	0.9571	0.1072
-770	"SRX529220"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.9847	0.5720000000000001
-771	"SRX529221"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.983	0.5514
-772	"SRX529224"	"ce10"	"Histone"	"H3K9me1"	"Larvae"	"L3"	"None"	"None"	0.9954	0.5642
-773	"SRX554717"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9593	0.2611
-774	"SRX554721"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9412	0.3779
-775	"SRX554722"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9420000000000001	0.2204
-776	"SRX554724"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9543	0.1346
-777	"SRX554734"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"prg-1 (n4357)"	0.976	0.2084
-778	"SRX554735"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"prg-1 (n4357)"	0.9628	0.3105
-779	"SRX657409"	"ce10"	"TFs and others"	"sdc-3"	"Larvae"	"L1"	"None"	"None"	0.8958	0.3321
-780	"SRX657411"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"sdc-2 (y93)"	0.9091	0.3347
-781	"SRX743640"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9775	0.6883
-782	"SRX743641"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9752	0.0868
-783	"SRX743642"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9343	0.4182
-784	"SRX743643"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9752	0.7215
-785	"SRX743645"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9498	0.0935
-786	"SRX743646"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9892	0.435
-787	"SRX743649"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9865	0.3033
-788	"SRX743651"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9916	0.5932
-789	"SRX747295"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9783	0.7287
-790	"SRX747296"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9741	0.7040000000000001
-791	"SRX747297"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.895	0.1919
-792	"SRX747298"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9003	0.3116
-793	"SRX747299"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9264	0.1478
-794	"SRX747301"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9459	0.5226
-795	"SRX747302"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9231	0.3216
-796	"SRX747304"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9590000000000001	0.6717
-797	"SRX747305"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9402	0.4105
-798	"SRX747306"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9469	0.4183
-799	"SRX958294"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts), him-8 (e1489)"	0.9619	0.6732
-800	"SRX958295"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts), him-8 (e1489)"	0.9639	0.6873
-801	"SRX958296"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts)"	0.9690000000000001	0.6445
-802	"SRX982060"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.8662	0.2939
-803	"SRX982061"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9692	0.3488
-804	"SRX982062"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.8048	0.2837
-805	"SRX982063"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9095	0.2427
-806	"SRX982064"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9815	0.3664
-807	"SRX982065"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.8908	0.2331
-808	"SRX982066"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.7766	0.1861
-809	"SRX982067"	"ce10"	"TFs and others"	"dpy-27"	"Adult"	"Young adult"	"None"	"None"	0.9732	0.3842
-810	"SRX982068"	"ce10"	"TFs and others"	"dpy-27"	"Adult"	"Young adult"	"None"	"None"	0.9965	0.3517
-811	"SRX982069"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9858	0.4321
-812	"SRX982072"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9887	0.4851
-813	"SRX982073"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9927	0.5041
-814	"SRX982074"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9884	0.168
-815	"SRX982076"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9899	0.3194
-816	"SRX982077"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9909	0.3137
-817	"SRX982078"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9611	0.251
-818	"SRX982079"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9828	0.1438
-819	"SRX982080"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9548	0.3381
-820	"SRX982081"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.935	0.3706
-821	"SRX982082"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9926	0.4428
-822	"SRX982083"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9965	0.3477
-823	"SRX982084"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8862	0.1533
-824	"SRX982085"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9828	0.4082
-825	"SRX982087"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9940000000000001	0.4978
+"index"	"accession"	"genome"	"assay_target_class"	"assay_target"	"biosample_type_class"	"biosample_type"	"treatment"	"mutation"	"test_auc_roc"	"test_auc_prc"	"n_positive_test_examples"
+0	"SRX027098"	"ce10"	"TFs and others"	"lem-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9772	0.4686	15484
+1	"SRX043849"	"ce10"	"TFs and others"	"lin-11"	"Larvae"	"L2"	"None"	"None"	0.9948	0.3689	1361
+2	"SRX043853"	"ce10"	"TFs and others"	"unc-130"	"Larvae"	"L1"	"None"	"None"	0.9949	0.3652	1523
+3	"SRX043864"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.9473	0.1013	1959
+4	"SRX043866"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.9341	0.1215	2754
+5	"SRX043868"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Late embryo"	"None"	"None"	0.9419	0.1181	2613
+6	"SRX043876"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2"	"None"	"None"	0.9143	0.2906	10024
+7	"SRX043880"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9183	0.1774	8637
+8	"SRX043968"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L4"	"None"	"None"	0.93	0.1619	6183
+9	"SRX043982"	"ce10"	"TFs and others"	"mep-1"	"Embryo"	"Embryos"	"None"	"None"	0.9929	0.5349	4925
+10	"SRX043991"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9942	0.488	2732
+11	"SRX043992"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9615	0.4494	19418
+12	"SRX043994"	"ce10"	"TFs and others"	"blmp-1"	"Larvae"	"L1"	"None"	"None"	0.9545	0.5087	29749
+13	"SRX043998"	"ce10"	"TFs and others"	"lin-13"	"Embryo"	"Embryos"	"None"	"None"	0.9894	0.3007	1676
+14	"SRX043999"	"ce10"	"TFs and others"	"elt-3"	"Larvae"	"L1"	"None"	"None"	0.9998	0.5686	143
+15	"SRX044002"	"ce10"	"TFs and others"	"elt-3"	"Larvae"	"L1"	"None"	"None"	0.9628	0.2599	6632
+16	"SRX044004"	"ce10"	"TFs and others"	"ceh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9952	0.2849	149
+17	"SRX044006"	"ce10"	"TFs and others"	"ceh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9965	0.1641	119
+18	"SRX044014"	"ce10"	"TFs and others"	"skn-1"	"Larvae"	"L1"	"None"	"None"	0.9676	0.466	6534
+19	"SRX054209"	"ce10"	"TFs and others"	"pha-4"	"Adult"	"Young adult"	"None"	"None"	0.9787	0.1701	1727
+20	"SRX059223"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9859	0.5341	12914
+21	"SRX059224"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9882	0.3322	4074
+22	"SRX059225"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9656	0.131	216
+23	"SRX059226"	"ce10"	"TFs and others"	"lin-52"	"Larvae"	"L3"	"None"	"None"	0.9887	0.4921	4858
+24	"SRX059228"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9891	0.5393	10177
+25	"SRX059230"	"ce10"	"TFs and others"	"lin-37"	"Larvae"	"L3"	"None"	"None"	0.9891	0.4667	3336
+26	"SRX059231"	"ce10"	"TFs and others"	"lin-37"	"Larvae"	"L3"	"None"	"None"	0.983	0.4586	7110
+27	"SRX059233"	"ce10"	"TFs and others"	"lin-54"	"Larvae"	"L3"	"None"	"None"	0.9769	0.6247	14039
+28	"SRX059234"	"ce10"	"TFs and others"	"lin-9"	"Larvae"	"L3"	"None"	"None"	0.9884	0.45899999999999996	5307
+29	"SRX059235"	"ce10"	"TFs and others"	"lin-9"	"Larvae"	"L3"	"None"	"None"	0.9742	0.5356	13556
+30	"SRX059237"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9728	0.4006	7647
+31	"SRX059239"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9444	0.4066	23102
+32	"SRX059240"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L3"	"None"	"None"	0.9864	0.516	5259
+33	"SRX059241"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L3"	"None"	"None"	0.9907	0.4037	1340
+34	"SRX059242"	"ce10"	"TFs and others"	"sdc-3"	"Larvae"	"L3"	"None"	"None"	0.9957	0.5049	228
+35	"SRX059244"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"None"	0.9701	0.5254	24003
+36	"SRX059245"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"None"	0.9504	0.4108	19656
+37	"SRX059250"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.9889	0.4761	3164
+38	"SRX059252"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L3"	"None"	"None"	0.9618	0.4414	12598
+39	"SRX059253"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L3"	"None"	"None"	0.9865	0.502	3193
+40	"SRX059254"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9663	0.6451	27501
+41	"SRX059256"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L3"	"None"	"None"	0.9868	0.4609	5407
+42	"SRX059257"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L3"	"None"	"None"	0.9846	0.4531	2504
+43	"SRX059265"	"ce10"	"Histone"	"H3K9ac"	"Larvae"	"L3"	"None"	"None"	0.9556	0.1045	791
+44	"SRX063957"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9784	0.6043	17129
+45	"SRX063959"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9738	0.6296	38310
+46	"SRX063960"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.9697	0.605	230
+47	"SRX065628"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L3"	"None"	"None"	0.9666	0.4994	14071
+48	"SRX065629"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L3"	"None"	"None"	0.9568	0.5336	23043
+49	"SRX065632"	"ce10"	"TFs and others"	"W03F9.2"	"Adult"	"Young adult"	"None"	"None"	0.9868	0.2985	1990
+50	"SRX065633"	"ce10"	"TFs and others"	"W03F9.2"	"Adult"	"Young adult"	"None"	"None"	0.985	0.45	4405
+51	"SRX065637"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L3"	"None"	"None"	0.8607	0.0695	1043
+52	"SRX065641"	"ce10"	"TFs and others"	"ztf-7"	"Larvae"	"L4"	"None"	"None"	0.9279999999999999	0.159	1870
+53	"SRX065644"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L2"	"None"	"None"	0.992	0.3547	2364
+54	"SRX065656"	"ce10"	"TFs and others"	"nhr-28"	"Larvae"	"L4"	"None"	"None"	0.9544	0.4062	19651
+55	"SRX065660"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L2"	"None"	"None"	0.9573	0.4359	19489
+56	"SRX065678"	"ce10"	"TFs and others"	"gmeb-1"	"Larvae"	"L2"	"None"	"None"	0.9726	0.527	12638
+57	"SRX065681"	"ce10"	"TFs and others"	"eor-1"	"Larvae"	"L3"	"None"	"None"	0.9157	0.0586	236
+58	"SRX065682"	"ce10"	"TFs and others"	"eor-1"	"Larvae"	"L3"	"None"	"None"	0.9112	0.0482	227
+59	"SRX065689"	"ce10"	"TFs and others"	"nhr-6"	"Larvae"	"L2"	"None"	"None"	0.987	0.3615	2923
+60	"SRX065690"	"ce10"	"TFs and others"	"nhr-6"	"Larvae"	"L2"	"None"	"None"	0.9939	0.17	872
+61	"SRX065698"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L1"	"None"	"None"	0.997	0.2178	145
+62	"SRX065701"	"ce10"	"TFs and others"	"ceh-82"	"Larvae"	"L3"	"None"	"F45C12.2 transgene"	0.9837	0.2192	1118
+63	"SRX065709"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L1"	"None"	"aly-2 transgene"	0.9676	0.149	870
+64	"SRX065710"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L1"	"None"	"aly-2 transgene"	0.9601	0.1396	615
+65	"SRX065717"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L3"	"None"	"aly-2 transgene"	0.9991	0.225	99
+66	"SRX065721"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L2"	"None"	"None"	0.993	0.3592	1690
+67	"SRX065722"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L2"	"None"	"None"	0.9915	0.1937	621
+68	"SRX076077"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.997	0.0707	162
+69	"SRX076078"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.9948	0.0789	213
+70	"SRX076079"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"Utx-1 RNAi"	"None"	0.9967	0.2074	110
+71	"SRX094475"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9725	0.6401	41413
+72	"SRX1007135"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.955	0.4875	18456
+73	"SRX1007136"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.9381	0.4779	27448
+74	"SRX1007137"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.9529	0.4867	18972
+75	"SRX1007138"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L2-L3"	"None"	"None"	0.951	0.4663	18647
+76	"SRX1099836"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9142	0.1986	5431
+77	"SRX1099837"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8336	0.187	18403
+78	"SRX1099838"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9206	0.2717	13493
+79	"SRX1099839"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8455	0.1455	8409
+80	"SRX1099840"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8285	0.1963	20590
+81	"SRX1099841"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9083	0.1716	9995
+82	"SRX1132919"	"ce10"	"TFs and others"	"elt-2"	"Larvae"	"L3"	"None"	"None"	0.9864	0.11599999999999999	951
+83	"SRX113601"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9688	0.1771	1499
+84	"SRX113605"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.945	0.1664	5062
+85	"SRX113606"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.956	0.2024	8176
+86	"SRX113610"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9509	0.2614	10612
+87	"SRX113611"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9149	0.1811	11279
+88	"SRX118221"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L3"	"None"	"None"	0.987	0.3925	3911
+89	"SRX120286"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L1"	"None"	"None"	0.9839	0.3641	3545
+90	"SRX120287"	"ce10"	"TFs and others"	"fos-1"	"Larvae"	"L1"	"None"	"None"	0.9927	0.3005	1649
+91	"SRX1299429"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.7433	0.2085	300
+92	"SRX1388756"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9472	0.3972	16553
+93	"SRX1388757"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9333	0.3171	12587
+94	"SRX1388758"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9446	0.405	18009
+95	"SRX1388759"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9527	0.3939	14460
+96	"SRX1388760"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9401	0.2966	9554
+97	"SRX1388761"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9415	0.4281	21480
+98	"SRX1388762"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9284	0.3254	13474
+99	"SRX1388763"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9315	0.3325	16029
+100	"SRX1388764"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9416	0.4123	21046
+101	"SRX1388765"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9492	0.3651	12865
+102	"SRX1388766"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9403	0.266	6239
+103	"SRX1388767"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.94	0.402	19080
+104	"SRX1388771"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.978	0.326	376
+105	"SRX1388772"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9916	0.4433	218
+106	"SRX1388773"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9908	0.1754	215
+107	"SRX1388777"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9962	0.4112	231
+108	"SRX1388778"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9862	0.5087	233
+109	"SRX1388779"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9949	0.5743	196
+110	"SRX146516"	"ce10"	"TFs and others"	"F16B12.6"	"Larvae"	"L1"	"None"	"None"	0.993	0.5756	4527
+111	"SRX146521"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L2"	"None"	"None"	0.9775	0.3898	4688
+112	"SRX147626"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L2"	"None"	"None"	0.9864	0.3357	3548
+113	"SRX147630"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L2"	"None"	"nhr-77 transgene"	0.9924	0.1635	590
+114	"SRX147633"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L4"	"None"	"nhr-77 transgene"	0.9757	0.2179	2799
+115	"SRX147634"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L4"	"None"	"nhr-77 transgene"	0.9657	0.3609	8827
+116	"SRX147645"	"ce10"	"TFs and others"	"ceh-82"	"Larvae"	"L1"	"None"	"None"	0.9919	0.597	6954
+117	"SRX148637"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"smg-1 RNAi"	"None"	0.9458	0.2247	10920
+118	"SRX151406"	"ce10"	"TFs and others"	"zag-1"	"Larvae"	"L4"	"None"	"None"	0.9991	0.2703	145
+119	"SRX1674090"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.8957	0.5137	86249
+120	"SRX1674094"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.8809999999999999	0.4395	71371
+121	"SRX1674100"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"CstF50 RNAi"	"None"	0.894	0.4459	67352
+122	"SRX1674102"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9269	0.4392	45751
+123	"SRX172525"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9947	0.5695	231
+124	"SRX1769986"	"ce10"	"TFs and others"	"ama-1"	"Larvae"	"L2"	"None"	"None"	0.8024	0.1123	13040
+125	"SRX1769988"	"ce10"	"TFs and others"	"ama-1"	"Larvae"	"L2"	"None"	"None"	0.7044	0.0739	16772
+126	"SRX1769994"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.8388	0.3996	60510
+127	"SRX1769995"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.7319	0.1198	21039
+128	"SRX1769996"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.6759999999999999	0.152	53993
+129	"SRX1769997"	"ce10"	"TFs and others"	"ama-1"	"Adult"	"Young adult"	"None"	"None"	0.6688	0.1311	43398
+130	"SRX188613"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9166	0.2984	11049
+131	"SRX188614"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Larvae"	"L3"	"None"	"None"	0.9016	0.1759	10781
+132	"SRX1949396"	"ce10"	"TFs and others"	"let-607"	"Adult"	"Young adult"	"None"	"None"	0.9648	0.2636	4560
+133	"SRX1949397"	"ce10"	"TFs and others"	"let-607"	"Adult"	"Young adult"	"None"	"None"	0.9640000000000001	0.2567	3557
+134	"SRX2035133"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"antimycin A"	"None"	0.9696	0.7203	38006
+135	"SRX2035134"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"antimycin A"	"None"	0.9702	0.7236	38200
+136	"SRX2035136"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9811	0.7309	27074
+137	"SRX2035137"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9805	0.7304	26460
+138	"SRX208755"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.89	0.2485	29613
+139	"SRX208756"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9457	0.3957	28536
+140	"SRX208764"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9862	0.4675	2835
+141	"SRX208767"	"ce10"	"TFs and others"	"npp-13"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9778	0.6462	33532
+142	"SRX208771"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9779	0.6218	5037
+143	"SRX208772"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9691	0.5772	8675
+144	"SRX208773"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9757	0.6096	6812
+145	"SRX208774"	"ce10"	"RNA polymerase"	"rpc-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9652	0.5375	10568
+146	"SRX208775"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9844	0.3935	4348
+147	"SRX208776"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9881	0.435	2433
+148	"SRX208777"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9865	0.5162	3075
+149	"SRX208778"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9882	0.5298	6152
+150	"SRX212235"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9817	0.5261	12323
+151	"SRX2144168"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9156	0.4999	203
+152	"SRX2144170"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"None"	0.9373	0.3474	14341
+153	"SRX2144171"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"set-32 (ok1457)"	0.9467	0.3781	14611
+154	"SRX2144172"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021)"	0.9442	0.3549	12608
+155	"SRX2144173"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9223	0.2921	13968
+156	"SRX2144174"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"oma-1 RNAi"	"hrde-1 (tm-1200)"	0.9363	0.3236	16252
+157	"SRX2144175"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9821	0.5853	181
+158	"SRX2144178"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.9690000000000001	0.4674	210
+159	"SRX2144179"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9401	0.4482	208
+160	"SRX2144180"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9344	0.3574	14925
+161	"SRX2144181"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"set-32 (ok1457)"	0.9473	0.3495	11573
+162	"SRX2144182"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021)"	0.9428	0.2981	7897
+163	"SRX2144183"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"met-2 (n4256), set-25 (ok5021), set-32 (ok1457)"	0.8979	0.1628	5139
+164	"SRX2144184"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm-1200)"	0.9283	0.259	7554
+165	"SRX2144191"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"set-32 (ok1457)"	0.9215	0.3428	205
+166	"SRX2163949"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9721	0.7252	35538
+167	"SRX2163950"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9734	0.703	34988
+168	"SRX2202775"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Young adult"	"None"	"None"	0.973	0.5484	15805
+169	"SRX2202776"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Young adult"	"None"	"None"	0.9742	0.5138	13540
+170	"SRX2202779"	"ce10"	"TFs and others"	"hpl-2"	"Adult"	"Young adult"	"None"	"None"	0.9382	0.4845	17821
+171	"SRX2202780"	"ce10"	"TFs and others"	"hpl-2"	"Adult"	"Young adult"	"None"	"None"	0.9420000000000001	0.4515	16034
+172	"SRX2202781"	"ce10"	"TFs and others"	"let-418"	"Adult"	"Young adult"	"None"	"None"	0.9520000000000001	0.4621	24702
+173	"SRX2202782"	"ce10"	"TFs and others"	"let-418"	"Adult"	"Young adult"	"None"	"None"	0.9577	0.517	27380
+174	"SRX2202783"	"ce10"	"TFs and others"	"lin-13"	"Adult"	"Young adult"	"None"	"None"	0.956	0.6295	46102
+175	"SRX2202784"	"ce10"	"TFs and others"	"lin-13"	"Adult"	"Young adult"	"None"	"None"	0.9567	0.6512	49242
+176	"SRX2202785"	"ce10"	"TFs and others"	"lin-61"	"Adult"	"Young adult"	"None"	"None"	0.9285	0.4623	32197
+177	"SRX2202786"	"ce10"	"TFs and others"	"lin-61"	"Adult"	"Young adult"	"None"	"None"	0.929	0.4464	32495
+178	"SRX2202787"	"ce10"	"TFs and others"	"met-2"	"Adult"	"Young adult"	"None"	"None"	0.9561	0.5445	22662
+179	"SRX2202788"	"ce10"	"TFs and others"	"met-2"	"Adult"	"Young adult"	"None"	"None"	0.9561	0.5656	26412
+180	"SRX222638"	"ce10"	"TFs and others"	"C16A3.4"	"Larvae"	"L1"	"None"	"None"	0.9925	0.4501	3779
+181	"SRX222639"	"ce10"	"TFs and others"	"C16A3.4"	"Larvae"	"L1"	"None"	"None"	0.9858	0.5307	7998
+182	"SRX222642"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L4"	"None"	"None"	0.9874	0.5977	7321
+183	"SRX222643"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L4"	"None"	"None"	0.9891	0.6082	7830
+184	"SRX2228847"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9889	0.3882	1181
+185	"SRX2228848"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9791	0.4484	6935
+186	"SRX2228849"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8567	0.4167	671
+187	"SRX2228850"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9479	0.3187	2265
+188	"SRX2228851"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8846	0.2214	1042
+189	"SRX2228852"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9895	0.3562	709
+190	"SRX2228853"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9921	0.2696	1080
+191	"SRX2228854"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9882	0.455	398
+192	"SRX2228855"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.986	0.3465	2487
+193	"SRX2228856"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9236	0.2837	1680
+194	"SRX2228857"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9898	0.3977	2372
+195	"SRX2228858"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9965	0.4953	196
+196	"SRX2228860"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9622	0.4335	3472
+197	"SRX2228861"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9494	0.3216	2386
+198	"SRX2228862"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9648	0.299	2517
+199	"SRX2228866"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9644	0.6776	43418
+200	"SRX2228867"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.976	0.6771	27465
+201	"SRX2228868"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9783	0.6409	19500
+202	"SRX2228869"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9926	0.3454	198
+203	"SRX2228870"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9892	0.2663	171
+204	"SRX2228871"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9821	0.3368	309
+205	"SRX2228872"	"ce10"	"Histone"	"H3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9773	0.3044	144
+206	"SRX2228875"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9883	0.511	219
+207	"SRX2228876"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9809	0.4793	269
+208	"SRX2228877"	"ce10"	"TFs and others"	"sdc-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8601	0.3681	473
+209	"SRX2228878"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9823	0.1859	508
+210	"SRX2228879"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9759	0.2926	450
+211	"SRX2228880"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9893	0.2445	1142
+212	"SRX2228881"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9831	0.4167	236
+213	"SRX2228882"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9946	0.2358	257
+214	"SRX2228883"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9874	0.3866	548
+215	"SRX2228884"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9793	0.3237	2095
+216	"SRX2228885"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.7553	0.1736	799
+217	"SRX2228887"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9688	0.4236	243
+218	"SRX2228888"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9732	0.2099	314
+219	"SRX2228889"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9711	0.1338	574
+220	"SRX2228890"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9736	0.2577	1922
+221	"SRX2228891"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9497	0.2431	679
+222	"SRX2228892"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9801	0.3353	579
+223	"SRX233417"	"ce10"	"TFs and others"	"dpl-1"	"Larvae"	"L1"	"None"	"None"	0.9862	0.5969	7438
+224	"SRX233445"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L2"	"None"	"None"	0.9994	0.2673	117
+225	"SRX233446"	"ce10"	"TFs and others"	"aly-2"	"Larvae"	"L2"	"None"	"None"	0.9940000000000001	0.28300000000000003	124
+226	"SRX233449"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L3"	"None"	"None"	0.9857	0.4221	4627
+227	"SRX233450"	"ce10"	"TFs and others"	"R02D3.7"	"Larvae"	"L3"	"None"	"None"	0.9777	0.2951	3689
+228	"SRX233453"	"ce10"	"TFs and others"	"lin-15B"	"Larvae"	"L1"	"None"	"None"	0.9973	0.3193	690
+229	"SRX233457"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L1"	"None"	"nhr-77 transgene"	0.9878	0.4696	5008
+230	"SRX233458"	"ce10"	"TFs and others"	"nhr-77"	"Larvae"	"L1"	"None"	"nhr-77 transgene"	0.9901	0.3932	3079
+231	"SRX233695"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L4"	"None"	"None"	0.9788	0.4337	8795
+232	"SRX233696"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L4"	"None"	"None"	0.98	0.4255	8269
+233	"SRX234912"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L1"	"None"	"None"	0.9934	0.3771	162
+234	"SRX234913"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L1"	"None"	"None"	0.9979	0.2709	161
+235	"SRX234917"	"ce10"	"TFs and others"	"sax-3"	"Larvae"	"L3"	"None"	"None"	0.9922	0.261	1494
+236	"SRX234921"	"ce10"	"TFs and others"	"nhr-116"	"Larvae"	"L4"	"None"	"nhr-116 transgene"	0.9996	0.2863	103
+237	"SRX234924"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L1"	"None"	"None"	0.9684	0.4983	11184
+238	"SRX2350718"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9855	0.4638	269
+239	"SRX2350719"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9898	0.21899999999999997	315
+240	"SRX2350721"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9956	0.245	288
+241	"SRX2350722"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9913	0.3789	339
+242	"SRX2350724"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9965	0.4623	245
+243	"SRX2350725"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9964	0.3881	347
+244	"SRX2350742"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9812	0.0724	222
+245	"SRX2350744"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9673	0.1039	206
+246	"SRX2350747"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9726	0.0247	302
+247	"SRX2350748"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9947	0.0575	267
+248	"SRX2350749"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9776	0.0767	519
+249	"SRX2350750"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9788	0.1035	208
+250	"SRX2350751"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9718	0.0694	960
+251	"SRX2350752"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.982	0.0805	681
+252	"SRX2350753"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9833	0.0547	479
+253	"SRX2350754"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9790000000000001	0.0831	443
+254	"SRX2350755"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9801	0.0743	535
+255	"SRX2350756"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.98	0.0416	434
+256	"SRX235172"	"ce10"	"TFs and others"	"sptf-1"	"Larvae"	"L1"	"None"	"sptf-1 transgene"	0.9994	0.2152	95
+257	"SRX2370185"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"sulfomethaxozale exposure"	"None"	0.9783	0.5347	365
+258	"SRX2370186"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9994	0.6931	215
+259	"SRX246029"	"ce10"	"Histone"	"hcp-4"	"Embryo"	"Embryos"	"None"	"None"	0.978	0.3493	3453
+260	"SRX257640"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.9211	0.3385	1777
+261	"SRX257641"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Embryos"	"None"	"None"	0.8892	0.1917	14398
+262	"SRX257643"	"ce10"	"TFs and others"	"capg-1"	"Embryo"	"Embryos"	"None"	"None"	0.9863	0.5852	8571
+263	"SRX257645"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9806	0.33299999999999996	562
+264	"SRX257646"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9734	0.414	712
+265	"SRX257647"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9905	0.4039	778
+266	"SRX257648"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9924	0.3892	970
+267	"SRX257649"	"ce10"	"TFs and others"	"capg-2"	"Embryo"	"Embryos"	"None"	"None"	0.9895	0.4932	426
+268	"SRX257650"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.982	0.2954	1201
+269	"SRX257652"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9743	0.3328	2855
+270	"SRX257653"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9755	0.2618	1296
+271	"SRX257655"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.988	0.3742	287
+272	"SRX257656"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Embryos"	"None"	"None"	0.9834	0.3587	232
+273	"SRX257657"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9629	0.3072	2301
+274	"SRX257661"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9853	0.5465	6959
+275	"SRX2576623"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9866	0.5196	5801
+276	"SRX2576624"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9883	0.5939	8400
+277	"SRX2576625"	"ce10"	"TFs and others"	"dpl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9898	0.4038	1977
+278	"SRX2576626"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9834	0.5623	8005
+279	"SRX2576627"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9836	0.5962	9264
+280	"SRX2576628"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9833	0.6648	15337
+281	"SRX2576629"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.991	0.5105	4587
+282	"SRX257663"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9797	0.5019	412
+283	"SRX2576630"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9851	0.6195	11089
+284	"SRX2576631"	"ce10"	"TFs and others"	"efl-1"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9885	0.361	2584
+285	"SRX2576632"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"None"	0.9822	0.5202	9004
+286	"SRX2576633"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"None"	0.9725	0.5076	15543
+287	"SRX2576634"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9929	0.5641	185
+288	"SRX2576635"	"ce10"	"TFs and others"	"lin-35"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.983	0.2437	241
+289	"SRX2576636"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9812	0.5561	9272
+290	"SRX2576637"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9778	0.5078	10911
+291	"SRX2576638"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"None"	0.9819	0.6809	15965
+292	"SRX2576639"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9885	0.5297	5905
+293	"SRX257664"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Embryos"	"None"	"None"	0.9932	0.4069	654
+294	"SRX2576640"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9886	0.7189	15904
+295	"SRX2576641"	"ce10"	"TFs and others"	"lin-9"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9886	0.4849	4236
+296	"SRX2576642"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.9812	0.6695	15148
+297	"SRX2576643"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9939	0.3991	1361
+298	"SRX2576644"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9881	0.7048	13522
+299	"SRX2576645"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9911	0.3499	1380
+300	"SRX2576646"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9834	0.5527	8441
+301	"SRX2576647"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9857	0.6053	9310
+302	"SRX2576648"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"None"	0.9863	0.6943	14404
+303	"SRX2576649"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9858	0.5463	6137
+304	"SRX2576650"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9865	0.7229	16192
+305	"SRX2576651"	"ce10"	"TFs and others"	"lin-52"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9934	0.3796	1971
+306	"SRX2576652"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9841	0.5837	9278
+307	"SRX2576653"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9745	0.5519	11648
+308	"SRX2576654"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"None"	0.9841	0.7092	15032
+309	"SRX2576655"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9947	0.4608	2804
+310	"SRX2576656"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9856	0.7025	15818
+311	"SRX2576657"	"ce10"	"TFs and others"	"lin-54"	"Embryo"	"Late embryo"	"None"	"lin-35 (n745)"	0.9862	0.4795	3111
+312	"SRX257667"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9803	0.3272	2010
+313	"SRX257668"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9792	0.3105	1716
+314	"SRX257669"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9903	0.2959	295
+315	"SRX257670"	"ce10"	"TFs and others"	"hcp-6"	"Embryo"	"Embryos"	"None"	"None"	0.9933	0.4826	261
+316	"SRX257672"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Embryos"	"None"	"None"	0.9532	0.6633	51522
+317	"SRX257674"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.987	0.532	7311
+318	"SRX257675"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.9818	0.4547	2867
+319	"SRX257676"	"ce10"	"TFs and others"	"mix-1"	"Embryo"	"Embryos"	"None"	"None"	0.9899	0.4949	531
+320	"SRX257681"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9965	0.2619	213
+321	"SRX257682"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9847	0.4199	3274
+322	"SRX257683"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9671	0.4666	516
+323	"SRX257684"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9883	0.3715	364
+324	"SRX257685"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9841	0.4038	208
+325	"SRX257686"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9836	0.2193	692
+326	"SRX257687"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9876	0.3724	503
+327	"SRX257688"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Embryos"	"None"	"None"	0.9946	0.5682	345
+328	"SRX2599461"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9421	0.3715	19122
+329	"SRX2599462"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9508	0.3254	11313
+330	"SRX2710280"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mid embryo"	"None"	"None"	0.9591	0.6564	50245
+331	"SRX2710281"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mid embryo"	"None"	"None"	0.9619	0.7236	67270
+332	"SRX2761380"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9912	0.1398	324
+333	"SRX2761381"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9979	0.4415	246
+334	"SRX2761382"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9196	0.3489	261
+335	"SRX2761383"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9877	0.2289	339
+336	"SRX2761384"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9925	0.1555	539
+337	"SRX2761385"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"None"	0.9441	0.4556	285
+338	"SRX276907"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L4"	"None"	"None"	0.9873	0.1712	1263
+339	"SRX276908"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L4"	"None"	"None"	0.9793	0.1701	1517
+340	"SRX277027"	"ce10"	"TFs and others"	"jun-1"	"Larvae"	"L3"	"None"	"None"	0.9768	0.2939	4863
+341	"SRX277043"	"ce10"	"TFs and others"	"unc-39"	"Embryo"	"Embryos"	"None"	"None"	0.9997	0.5094	147
+342	"SRX277044"	"ce10"	"TFs and others"	"unc-39"	"Embryo"	"Embryos"	"None"	"None"	0.9995	0.1497	79
+343	"SRX277051"	"ce10"	"TFs and others"	"elt-3"	"Embryo"	"Embryos"	"None"	"None"	0.9567	0.4542	191
+344	"SRX277052"	"ce10"	"TFs and others"	"elt-3"	"Embryo"	"Embryos"	"None"	"None"	0.9737	0.2687	142
+345	"SRX277059"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L1"	"None"	"None"	0.9761	0.3132	2364
+346	"SRX277060"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L1"	"None"	"None"	0.9719	0.3105	2623
+347	"SRX277063"	"ce10"	"TFs and others"	"nhr-10"	"Larvae"	"L4"	"None"	"None"	0.9919	0.0414	195
+348	"SRX277064"	"ce10"	"TFs and others"	"nhr-10"	"Larvae"	"L4"	"None"	"None"	0.9869	0.0805	838
+349	"SRX277067"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L4"	"None"	"None"	0.9540000000000001	0.3838	5947
+350	"SRX277068"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L4"	"None"	"None"	0.9798	0.4212	2164
+351	"SRX277071"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L3"	"None"	"None"	0.9731	0.4352	9007
+352	"SRX277072"	"ce10"	"TFs and others"	"ceh-28"	"Larvae"	"L3"	"None"	"None"	0.9766	0.4397	8129
+353	"SRX277075"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L2"	"None"	"None"	0.9846	0.4812	6004
+354	"SRX277076"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L2"	"None"	"None"	0.9867	0.4578	4428
+355	"SRX277079"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L4"	"None"	"None"	0.9843	0.3772	3628
+356	"SRX277080"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L4"	"None"	"None"	0.976	0.3612	4438
+357	"SRX277088"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L1"	"None"	"None"	0.9856	0.5054	5545
+358	"SRX277089"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L1"	"None"	"None"	0.9839	0.5274	7302
+359	"SRX277092"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L2"	"None"	"None"	0.9787	0.4984	6918
+360	"SRX277093"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L2"	"None"	"None"	0.9752	0.47700000000000004	8181
+361	"SRX277096"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L4"	"None"	"None"	0.9821	0.3772	3219
+362	"SRX277097"	"ce10"	"TFs and others"	"lin-13"	"Larvae"	"L4"	"None"	"None"	0.9864	0.3736	2908
+363	"SRX277100"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L2"	"None"	"None"	0.9751	0.1828	1390
+364	"SRX277101"	"ce10"	"TFs and others"	"ztf-4"	"Larvae"	"L2"	"None"	"None"	0.9723	0.3155	3047
+365	"SRX277104"	"ce10"	"TFs and others"	"nhr-21"	"Larvae"	"L2"	"None"	"None"	0.9523	0.3379	7626
+366	"SRX277105"	"ce10"	"TFs and others"	"nhr-21"	"Larvae"	"L2"	"None"	"None"	0.9491	0.3644	11381
+367	"SRX2965744"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"set-9 (rw5), set-26 (tm2467)"	0.9782	0.7317	32534
+368	"SRX3043399"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9753	0.62	17483
+369	"SRX3043400"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9549	0.6098	29546
+370	"SRX3043401"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9864	0.539	8507
+371	"SRX3043402"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9788	0.6109	16338
+372	"SRX3043403"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9678	0.6129	23524
+373	"SRX3043404"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9819	0.1968	1694
+374	"SRX3043405"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9957	0.5239	240
+375	"SRX3043407"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9571	0.5588	251
+376	"SRX3043408"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9613	0.49200000000000005	256
+377	"SRX3043409"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9987	0.5353	174
+378	"SRX3043410"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9368	0.4855	229
+379	"SRX3043417"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9875	0.5979	10555
+380	"SRX3043418"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Whole worm"	"None"	"None"	0.9716	0.7085	36520
+381	"SRX3043420"	"ce10"	"Histone"	"H3"	"Adult"	"Whole worm"	"None"	"None"	0.9851	0.4468	294
+382	"SRX312079"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.9827	0.4296	345
+383	"SRX312080"	"ce10"	"TFs and others"	"kle-2"	"Embryo"	"Embryos"	"None"	"None"	0.991	0.5196	398
+384	"SRX312081"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Embryos"	"None"	"None"	0.9743	0.3774	201
+385	"SRX323682"	"ce10"	"TFs and others"	"tra-1"	"Larvae"	"L3"	"None"	"None"	0.9512	0.1752	5767
+386	"SRX330983"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9766	0.657	22624
+387	"SRX330984"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9812	0.5106	9592
+388	"SRX330985"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9799	0.537	5480
+389	"SRX330986"	"ce10"	"TFs and others"	"kle-2"	"Larvae"	"L3"	"None"	"None"	0.9876	0.5343	4736
+390	"SRX331070"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L1"	"None"	"None"	0.9725	0.5703	13269
+391	"SRX331074"	"ce10"	"TFs and others"	"C34F6.9"	"Larvae"	"L2"	"None"	"None"	0.9754	0.6003	16135
+392	"SRX331076"	"ce10"	"TFs and others"	"C34F6.9"	"Larvae"	"L2"	"None"	"None"	0.9689	0.5485	14328
+393	"SRX331088"	"ce10"	"TFs and others"	"lin-35"	"Larvae"	"L1"	"None"	"None"	0.9849	0.6458	12139
+394	"SRX331098"	"ce10"	"TFs and others"	"nhr-129"	"Larvae"	"L2"	"None"	"None"	0.9686	0.529	16794
+395	"SRX331100"	"ce10"	"TFs and others"	"nhr-129"	"Larvae"	"L2"	"None"	"None"	0.9682	0.527	13779
+396	"SRX331104"	"ce10"	"TFs and others"	"snpc-4"	"Larvae"	"L1"	"None"	"None"	0.9772	0.379	4634
+397	"SRX331106"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"None"	0.9836	0.6303	13945
+398	"SRX331108"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"None"	0.9823	0.6593	19310
+399	"SRX331110"	"ce10"	"TFs and others"	"sem-4"	"Larvae"	"L2"	"None"	"None"	0.9765	0.3415	3661
+400	"SRX331118"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L1"	"None"	"None"	0.9868	0.2635	1576
+401	"SRX331122"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.9326	0.2888	6663
+402	"SRX331124"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.9328	0.2785	5757
+403	"SRX331126"	"ce10"	"TFs and others"	"nhr-25"	"Larvae"	"L2"	"None"	"None"	0.93	0.2995	5826
+404	"SRX331132"	"ce10"	"TFs and others"	"nhr-23"	"Larvae"	"L3"	"None"	"None"	0.9652	0.3393	6040
+405	"SRX331148"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L4"	"None"	"None"	0.9548	0.47	12805
+406	"SRX331150"	"ce10"	"TFs and others"	"ham-1"	"Larvae"	"L4"	"None"	"None"	0.9570000000000001	0.4596	11787
+407	"SRX331162"	"ce10"	"TFs and others"	"lsy-2"	"Embryo"	"Embryos"	"None"	"None"	0.9484	0.3488	5235
+408	"SRX331166"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.961	0.5263	11766
+409	"SRX331168"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9719	0.5517	9015
+410	"SRX331170"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9670000000000001	0.6086	21941
+411	"SRX331172"	"ce10"	"TFs and others"	"lsy-2"	"Larvae"	"L1"	"None"	"None"	0.9658	0.6009	24404
+412	"SRX331174"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L2"	"None"	"None"	0.9965	0.1954	157
+413	"SRX331182"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L1"	"None"	"None"	0.9961	0.1	323
+414	"SRX331184"	"ce10"	"TFs and others"	"nhr-237"	"Larvae"	"L1"	"None"	"None"	0.9947	0.1075	138
+415	"SRX331186"	"ce10"	"TFs and others"	"nhr-237"	"Embryo"	"Embryos"	"None"	"None"	0.995	0.3734	1806
+416	"SRX331188"	"ce10"	"TFs and others"	"nhr-237"	"Embryo"	"Embryos"	"None"	"None"	0.9946	0.3952	2058
+417	"SRX331190"	"ce10"	"TFs and others"	"pax-1"	"Embryo"	"Embryos"	"None"	"None"	0.9607	0.239	128
+418	"SRX331192"	"ce10"	"TFs and others"	"pax-1"	"Embryo"	"Embryos"	"None"	"None"	0.9316	0.1974	133
+419	"SRX331194"	"ce10"	"TFs and others"	"ces-1"	"Embryo"	"Embryos"	"None"	"None"	0.9319	0.3371	14961
+420	"SRX331196"	"ce10"	"TFs and others"	"ces-1"	"Embryo"	"Embryos"	"None"	"None"	0.9318	0.35100000000000003	16705
+421	"SRX331198"	"ce10"	"TFs and others"	"ceh-39"	"Embryo"	"Embryos"	"None"	"None"	0.9825	0.4861	7467
+422	"SRX331200"	"ce10"	"TFs and others"	"ceh-39"	"Embryo"	"Embryos"	"None"	"None"	0.9823	0.0776	172
+423	"SRX331202"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L3"	"None"	"None"	0.9839	0.1328	340
+424	"SRX331204"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L3"	"None"	"None"	0.9658	0.2563	1531
+425	"SRX331206"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L4"	"None"	"None"	0.9831	0.3862	5619
+426	"SRX331208"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L4"	"None"	"None"	0.9811	0.4045	6059
+427	"SRX331210"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L2"	"None"	"None"	0.9959	0.1889	118
+428	"SRX331222"	"ce10"	"TFs and others"	"unc-62"	"Embryo"	"Embryos"	"None"	"None"	0.9737	0.3359	5443
+429	"SRX331224"	"ce10"	"TFs and others"	"unc-62"	"Embryo"	"Embryos"	"None"	"None"	0.9848	0.2651	282
+430	"SRX331226"	"ce10"	"TFs and others"	"nhr-28"	"Embryo"	"Embryos"	"None"	"None"	0.9936	0.2979	139
+431	"SRX331228"	"ce10"	"TFs and others"	"nhr-28"	"Embryo"	"Embryos"	"None"	"None"	0.9996	0.2689	110
+432	"SRX331230"	"ce10"	"TFs and others"	"nhr-11"	"Embryo"	"Late embryo"	"None"	"None"	0.9626	0.6822	232
+433	"SRX331232"	"ce10"	"TFs and others"	"nhr-11"	"Embryo"	"Late embryo"	"None"	"None"	0.9969	0.7103	221
+434	"SRX331234"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L1"	"None"	"None"	0.9731	0.3527	431
+435	"SRX331236"	"ce10"	"TFs and others"	"nhr-11"	"Larvae"	"L1"	"None"	"None"	0.9812	0.2643	496
+436	"SRX331238"	"ce10"	"TFs and others"	"nhr-28"	"Larvae"	"L1"	"None"	"None"	0.9670000000000001	0.4705	147
+437	"SRX331242"	"ce10"	"TFs and others"	"nhr-2"	"Embryo"	"Embryos"	"None"	"None"	0.9653	0.3035	4844
+438	"SRX331244"	"ce10"	"TFs and others"	"nhr-2"	"Embryo"	"Embryos"	"None"	"None"	0.9584	0.1795	1557
+439	"SRX331250"	"ce10"	"TFs and others"	"fkh-10"	"Larvae"	"L4"	"None"	"None"	0.9969	0.1082	138
+440	"SRX331252"	"ce10"	"TFs and others"	"fkh-10"	"Larvae"	"L4"	"None"	"None"	0.9733	0.1517	1335
+441	"SRX331258"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L1"	"None"	"None"	0.9740000000000001	0.2873	3089
+442	"SRX331260"	"ce10"	"TFs and others"	"lin-39"	"Larvae"	"L1"	"None"	"None"	0.9843	0.21899999999999997	1982
+443	"SRX331262"	"ce10"	"TFs and others"	"pha-4"	"Larvae"	"L4"	"None"	"None"	0.9596	0.1537	143
+444	"SRX331268"	"ce10"	"RNA polymerase"	"RNA polymerase III"	"Adult"	"Young adult"	"None"	"None"	0.9851	0.575	3320
+445	"SRX331272"	"ce10"	"TFs and others"	"unc-55"	"Larvae"	"L2"	"None"	"None"	0.968	0.5618	12672
+446	"SRX331274"	"ce10"	"TFs and others"	"unc-55"	"Larvae"	"L2"	"None"	"None"	0.9646	0.5143	10105
+447	"SRX331278"	"ce10"	"TFs and others"	"blmp-1"	"Embryo"	"Embryos"	"None"	"None"	0.9048	0.1493	257
+448	"SRX331290"	"ce10"	"TFs and others"	"ztf-11"	"Embryo"	"Embryos"	"None"	"None"	0.9968	0.1696	129
+449	"SRX331294"	"ce10"	"TFs and others"	"zip-2"	"Larvae"	"L4"	"None"	"None"	0.9566	0.127	1019
+450	"SRX331296"	"ce10"	"TFs and others"	"zip-2"	"Larvae"	"L4"	"None"	"None"	0.973	0.107	814
+451	"SRX331300"	"ce10"	"TFs and others"	"dve-1"	"Larvae"	"L4"	"None"	"None"	0.9585	0.4361	15951
+452	"SRX331302"	"ce10"	"TFs and others"	"dve-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9854	0.34700000000000003	2761
+453	"SRX331304"	"ce10"	"TFs and others"	"dve-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9794	0.4148	5184
+454	"SRX331306"	"ce10"	"TFs and others"	"F23B12.7"	"Adult"	"Young adult"	"None"	"None"	0.9879	0.3862	2854
+455	"SRX331314"	"ce10"	"TFs and others"	"hlh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9876	0.27899999999999997	2137
+456	"SRX331316"	"ce10"	"TFs and others"	"hlh-30"	"Embryo"	"Late embryo"	"None"	"None"	0.9335	0.3294	7435
+457	"SRX331318"	"ce10"	"TFs and others"	"med-1"	"Embryo"	"Embryos"	"None"	"None"	0.9898	0.2042	622
+458	"SRX331320"	"ce10"	"TFs and others"	"med-1"	"Embryo"	"Embryos"	"None"	"None"	0.9911	0.2263	625
+459	"SRX331322"	"ce10"	"TFs and others"	"nfya-1"	"Larvae"	"L3"	"None"	"None"	0.9625	0.5789	19855
+460	"SRX331324"	"ce10"	"TFs and others"	"nfya-1"	"Larvae"	"L3"	"None"	"None"	0.9657	0.5775	17179
+461	"SRX331326"	"ce10"	"TFs and others"	"nfya-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9715	0.4961	9152
+462	"SRX331328"	"ce10"	"TFs and others"	"nfya-1"	"Embryo"	"Late embryo"	"None"	"None"	0.9729	0.4574	8471
+463	"SRX331340"	"ce10"	"Histone"	"H3K79me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9623	0.5720000000000001	35877
+464	"SRX331343"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9606	0.4256	10817
+465	"SRX331344"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9782	0.397	5902
+466	"SRX331347"	"ce10"	"Histone"	"H3K9acS10ph"	"Larvae"	"L3"	"None"	"None"	0.9798	0.2542	568
+467	"SRX331348"	"ce10"	"Histone"	"H3K9acS10ph"	"Larvae"	"L3"	"None"	"None"	0.9357	0.1381	784
+468	"SRX331351"	"ce10"	"Histone"	"H4K8ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.985	0.413	665
+469	"SRX331352"	"ce10"	"Histone"	"H4K8ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9843	0.4379	327
+470	"SRX331355"	"ce10"	"TFs and others"	"mis-12"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9997	0.6681	196
+471	"SRX331356"	"ce10"	"TFs and others"	"mis-12"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9996	0.6722	187
+472	"SRX331363"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9847	0.5862	13609
+473	"SRX331364"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9795	0.1881	471
+474	"SRX335103"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Late embryo"	"None"	"None"	0.973	0.6994	35996
+475	"SRX335104"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Late embryo"	"None"	"None"	0.9723	0.6914	35842
+476	"SRX341784"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.6273	0.0553	14342
+477	"SRX341785"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8943	0.1194	7137
+478	"SRX341786"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9194	0.0636	2572
+479	"SRX341787"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9431	0.0975	1764
+480	"SRX341788"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9594	0.6873	50227
+481	"SRX341789"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"NPP-13 RNAi"	"None"	0.9521	0.6933	55510
+482	"SRX3583336"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"set-9 (rw5), set-26 (tm2467)"	0.9887	0.6721	11532
+483	"SRX3583340"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141)"	0.9616	0.7116	41904
+484	"SRX3583341"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141)"	0.9758	0.7351	34440
+485	"SRX3583342"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141), set-26 (tm2467)"	0.9676	0.7108	41071
+486	"SRX3583343"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"glp-1 (e2141), set-26 (tm2467)"	0.9834	0.7291	23430
+487	"SRX373265"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9995	0.4981	138
+488	"SRX373266"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9832	0.4224	280
+489	"SRX373267"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"None"	0.9834	0.5058	294
+490	"SRX373268"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9737	0.5228	243
+491	"SRX373270"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9997	0.6738	163
+492	"SRX373271"	"ce10"	"TFs and others"	"cec-3"	"Adult"	"Young adult"	"None"	"spr-5 (by101)"	0.9925	0.6125	156
+493	"SRX3942553"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Adult"	"None"	"None"	0.8971	0.2453	2398
+494	"SRX3942556"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"None"	"None"	0.9416	0.2876	3679
+495	"SRX3942557"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"DMSO 0.1%"	"None"	0.9615	0.4252	7248
+496	"SRX3942558"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Adult"	"BPA 100uM"	"None"	0.941	0.2737	3013
+497	"SRX4012474"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"None"	0.9868	0.711	15943
+498	"SRX4012476"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"None"	0.9842	0.8049	41834
+499	"SRX4012478"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"arle-14 (tm6845)"	0.9795	0.7046	31557
+500	"SRX4012480"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Embryos"	"None"	"arle-14 (tm6845)"	0.9878	0.8487	48335
+501	"SRX4082334"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9634	0.6954	49149
+502	"SRX4082335"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9684	0.7066	43195
+503	"SRX4082336"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L1"	"None"	"None"	0.9645	0.6856	41682
+504	"SRX4082337"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L1"	"None"	"None"	0.968	0.7024	38955
+505	"SRX4082338"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L2"	"None"	"None"	0.9648	0.6949	43267
+506	"SRX4082339"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L2"	"None"	"None"	0.9657	0.7040000000000001	43009
+507	"SRX4082340"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9616	0.7	51968
+508	"SRX4082341"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"None"	0.9672	0.6969	39619
+509	"SRX4082342"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9647	0.7266	49315
+510	"SRX4082343"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9662	0.7379	48825
+511	"SRX4082344"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Young adult"	"None"	"None"	0.9587	0.7124	48136
+512	"SRX4082345"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Young adult"	"None"	"None"	0.9589	0.7024	44236
+513	"SRX4082346"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9623	0.0234	424
+514	"SRX4082347"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9564	0.0605	869
+515	"SRX4082358"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9665	0.5499	35926
+516	"SRX4082359"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9674	0.5443	35057
+517	"SRX4082360"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L1"	"None"	"None"	0.9609	0.6129	56016
+518	"SRX4082361"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L1"	"None"	"None"	0.9602	0.6036	54364
+519	"SRX4082362"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L2"	"None"	"None"	0.9609	0.6045	54537
+520	"SRX4082363"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L2"	"None"	"None"	0.958	0.6336	65111
+521	"SRX4082364"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9559	0.6309	67423
+522	"SRX4082365"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9528	0.5736	58881
+523	"SRX4082366"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L4"	"None"	"None"	0.9648	0.5295	35968
+524	"SRX4082368"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9637	0.6588	62741
+525	"SRX4082369"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Young adult"	"None"	"None"	0.9635	0.6249	54541
+526	"SRX4082372"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L1"	"None"	"None"	0.9924	0.1623	526
+527	"SRX4082373"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L1"	"None"	"None"	0.9858	0.2767	1708
+528	"SRX4082374"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L2"	"None"	"None"	0.9937	0.2097	413
+529	"SRX4082378"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L4"	"None"	"None"	0.9908	0.2539	417
+530	"SRX4082379"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L4"	"None"	"None"	0.9879	0.2841	593
+531	"SRX4082380"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Young adult"	"None"	"None"	0.9922	0.2455	664
+532	"SRX4082381"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Young adult"	"None"	"None"	0.9949	0.4021	399
+533	"SRX4085339"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9672	0.3595	893
+534	"SRX4085340"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9835	0.3727	726
+535	"SRX4085341"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9836	0.5188	1772
+536	"SRX4085342"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9834	0.4847	4500
+537	"SRX4085343"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9836	0.4488	7825
+538	"SRX4085344"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9768	0.1407	2242
+539	"SRX4085348"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9557	0.4019	649
+540	"SRX4085351"	"ce10"	"Chromatin"	"DNase-seq"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9791	0.5626	3995
+541	"SRX4085356"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9792	0.4889	1982
+542	"SRX4085358"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9823	0.4551	3253
+543	"SRX4085359"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9762	0.3556	2462
+544	"SRX4085360"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9814	0.43700000000000006	4349
+545	"SRX4085370"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.9844	0.5486	8615
+546	"SRX4085371"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L1"	"None"	"None"	0.965	0.2162	1819
+547	"SRX4085374"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9854	0.5803	4668
+548	"SRX4085375"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9738	0.5035	3012
+549	"SRX4085376"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9856	0.5722	5595
+550	"SRX4085377"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9831	0.5356	4520
+551	"SRX4085378"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9809	0.589	7051
+552	"SRX4085379"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9534	0.2718	1475
+553	"SRX4085383"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9740000000000001	0.4904	1506
+554	"SRX4085384"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9601	0.4896	1299
+555	"SRX4085385"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9835	0.5219	2955
+556	"SRX4085386"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9848	0.4988	3456
+557	"SRX4085387"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9799	0.4559	4164
+558	"SRX4085388"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L2"	"None"	"None"	0.9428	0.1437	1113
+559	"SRX4085393"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9235	0.3699	746
+560	"SRX4085394"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9738	0.4583	2099
+561	"SRX4085395"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9829	0.5335	6538
+562	"SRX4085397"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9795	0.5377	8610
+563	"SRX4085398"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9783	0.5155	9296
+564	"SRX4085399"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9725	0.3354	4220
+565	"SRX4085400"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9839	0.5576	7711
+566	"SRX4085401"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9852	0.5677	8038
+567	"SRX4085403"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9773	0.5706	11440
+568	"SRX4085405"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9876	0.4739	7963
+569	"SRX4085406"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L3"	"None"	"None"	0.9316	0.3128	450
+570	"SRX4085410"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9798	0.5145	3693
+571	"SRX4085412"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9787	0.6204	13391
+572	"SRX4085413"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9787	0.6255	12447
+573	"SRX4085414"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.98	0.5908	6708
+574	"SRX4085415"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.8758	0.2377	528
+575	"SRX4085418"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.976	0.5055	1886
+576	"SRX4085419"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9840000000000001	0.5763	3543
+577	"SRX4085420"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9857	0.5905	4653
+578	"SRX4085421"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9838	0.5899	6217
+579	"SRX4085424"	"ce10"	"Chromatin"	"DNase-seq"	"Larvae"	"L4"	"None"	"None"	0.9415	0.1772	1191
+580	"SRX4085427"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9604	0.3196	2560
+581	"SRX4085429"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9624	0.2983	2977
+582	"SRX4085430"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9654	0.1671	1761
+583	"SRX4085436"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9206	0.1106	645
+584	"SRX4085438"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9807	0.5893	8514
+585	"SRX4085439"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9792	0.555	8374
+586	"SRX4085440"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9773	0.5267	8316
+587	"SRX4085441"	"ce10"	"Chromatin"	"DNase-seq"	"Adult"	"Young adult"	"None"	"None"	0.9414	0.3816	1596
+588	"SRX4200539"	"ce10"	"Histone"	"H3K4me3"	"Adult"	"Sperm"	"None"	"None"	0.836	0.1636	13862
+589	"SRX4387978"	"ce10"	"Histone"	"H3K27ac"	"Adult"	"Young adult"	"None"	"None"	0.9709	0.5416	20036
+590	"SRX4387980"	"ce10"	"Histone"	"H3K27ac"	"Adult"	"Young adult"	"None"	"None"	0.9249	0.1851	8439
+591	"SRX463082"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"None"	0.9704	0.4094	8867
+592	"SRX466457"	"ce10"	"Histone"	"H3K79me3"	"Larvae"	"L3"	"None"	"None"	0.9690000000000001	0.1335	2268
+593	"SRX466458"	"ce10"	"Histone"	"H3K79me3"	"Larvae"	"L3"	"None"	"None"	0.9788	0.1492	897
+594	"SRX466461"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.9753	0.2758	767
+595	"SRX466462"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.97	0.3105	3179
+596	"SRX466466"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L3"	"None"	"None"	0.9547	0.4861	420
+597	"SRX466469"	"ce10"	"Histone"	"H3K36me2"	"Larvae"	"L3"	"None"	"None"	0.9571	0.0957	1475
+598	"SRX466473"	"ce10"	"Histone"	"H3K36ac"	"Larvae"	"L3"	"None"	"None"	0.946	0.2189	7781
+599	"SRX466474"	"ce10"	"Histone"	"H3K36ac"	"Larvae"	"L3"	"None"	"None"	0.9167	0.3602	36406
+600	"SRX466477"	"ce10"	"Histone"	"H3K27me1"	"Larvae"	"L3"	"None"	"None"	0.9846	0.1513	223
+601	"SRX466478"	"ce10"	"Histone"	"H3K27me1"	"Larvae"	"L3"	"None"	"None"	0.9215	0.2589	518
+602	"SRX466481"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L3"	"None"	"None"	0.9868	0.4881	384
+603	"SRX466482"	"ce10"	"Histone"	"H3K27me3"	"Larvae"	"L3"	"None"	"None"	0.9911	0.4331	341
+604	"SRX466485"	"ce10"	"Histone"	"H3K18ac"	"Larvae"	"L3"	"None"	"None"	0.9742	0.1008	1020
+605	"SRX466486"	"ce10"	"Histone"	"H3K18ac"	"Larvae"	"L3"	"None"	"None"	0.9769	0.3053	162
+606	"SRX466489"	"ce10"	"Histone"	"H3K79me2"	"Larvae"	"L3"	"None"	"None"	0.9666	0.157	3060
+607	"SRX466493"	"ce10"	"Histone"	"H3K36me1"	"Larvae"	"L3"	"None"	"None"	0.9768	0.255	278
+608	"SRX466498"	"ce10"	"Histone"	"H3K9me2"	"Larvae"	"L3"	"None"	"None"	0.976	0.5066	12458
+609	"SRX466501"	"ce10"	"Histone"	"H3K9acS10ph"	"Embryo"	"Early embryo"	"None"	"None"	0.9803	0.1439	1204
+610	"SRX466502"	"ce10"	"Histone"	"H3K9acS10ph"	"Embryo"	"Early embryo"	"None"	"None"	0.9869	0.2463	132
+611	"SRX466505"	"ce10"	"Histone"	"H3K23ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9773	0.0712	329
+612	"SRX466506"	"ce10"	"Histone"	"H3K23ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9871	0.5151	196
+613	"SRX466509"	"ce10"	"Histone"	"H3K18ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9552	0.3784	18547
+614	"SRX466510"	"ce10"	"Histone"	"H3K18ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9535	0.4119	19989
+615	"SRX466513"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9434	0.3737	18003
+616	"SRX466514"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9590000000000001	0.4178	16161
+617	"SRX466517"	"ce10"	"Histone"	"H3K4me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9386	0.409	38039
+618	"SRX466518"	"ce10"	"Histone"	"H3K4me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9329	0.4146	40582
+619	"SRX466521"	"ce10"	"Histone"	"H3K27ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9494	0.6105	50936
+620	"SRX466522"	"ce10"	"Histone"	"H3K27ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9565	0.478	24301
+621	"SRX466525"	"ce10"	"Histone"	"H3K27me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9812	0.2067	422
+622	"SRX466526"	"ce10"	"Histone"	"H3K27me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9739	0.0842	318
+623	"SRX466529"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Early embryo"	"None"	"None"	0.963	0.6414	32764
+624	"SRX466530"	"ce10"	"Histone"	"H3K9me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9679	0.6375	28407
+625	"SRX466533"	"ce10"	"Histone"	"H4K8ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9758	0.0623	264
+626	"SRX466534"	"ce10"	"Histone"	"H4K8ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9621	0.05	142
+627	"SRX466537"	"ce10"	"Histone"	"H3K27me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9918	0.1938	582
+628	"SRX466538"	"ce10"	"Histone"	"H3K27me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9926	0.2681	1352
+629	"SRX466541"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9647	0.6688	38493
+630	"SRX466542"	"ce10"	"Histone"	"H3K4me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9874	0.4943	6567
+631	"SRX466554"	"ce10"	"Histone"	"H3K79me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9353	0.4813	37486
+632	"SRX466557"	"ce10"	"Histone"	"H3K79me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9425	0.4431	28684
+633	"SRX466558"	"ce10"	"Histone"	"H3K79me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9353	0.4682	35757
+634	"SRX466565"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9890000000000001	0.2434	1521
+635	"SRX466566"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9996	0.7016	169
+636	"SRX466568"	"ce10"	"TFs and others"	"scc-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9474	0.5572	25657
+637	"SRX466571"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9807	0.6138	22835
+638	"SRX466572"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9925	0.483	316
+639	"SRX466575"	"ce10"	"TFs and others"	"him-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8727	0.3855	5242
+640	"SRX466576"	"ce10"	"TFs and others"	"him-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8596	0.414	3325
+641	"SRX466579"	"ce10"	"TFs and others"	"hpl-2"	"Larvae"	"L3"	"None"	"None"	0.9543	0.5251	27027
+642	"SRX466583"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9557	0.5005	766
+643	"SRX466584"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9748	0.6671	19737
+644	"SRX466587"	"ce10"	"TFs and others"	"hcp-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9715	0.5605	191
+645	"SRX466588"	"ce10"	"TFs and others"	"hcp-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9997	0.5553	149
+646	"SRX467177"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"lin-35 (n745)"	0.9840000000000001	0.6515	13540
+647	"SRX467179"	"ce10"	"TFs and others"	"efl-1"	"Larvae"	"L1"	"None"	"lin-35 (n745)"	0.9877	0.6291	10686
+648	"SRX494821"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.9843	0.4668	4055
+649	"SRX494822"	"ce10"	"TFs and others"	"lin-53"	"Larvae"	"L3"	"None"	"None"	0.985	0.35600000000000004	1269
+650	"SRX494825"	"ce10"	"TFs and others"	"him-17"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.97	0.1511	2899
+651	"SRX494826"	"ce10"	"TFs and others"	"him-17"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.973	0.0644	562
+652	"SRX494835"	"ce10"	"Histone"	"H3"	"Embryo"	"Early embryo"	"None"	"None"	0.9436	0.5551	343
+653	"SRX494839"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.8711	0.5345	297
+654	"SRX494843"	"ce10"	"Histone"	"H3K9me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9445	0.40299999999999997	21086
+655	"SRX494846"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9667	0.0089	256
+656	"SRX494847"	"ce10"	"Histone"	"H3K4me1"	"Embryo"	"Early embryo"	"None"	"None"	0.9671	0.0096	199
+657	"SRX494850"	"ce10"	"Histone"	"H3K36me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9334	0.3924	35181
+658	"SRX494851"	"ce10"	"Histone"	"H3K36me2"	"Embryo"	"Early embryo"	"None"	"None"	0.9478	0.2143	10692
+659	"SRX494855"	"ce10"	"Histone"	"H3K36me3"	"Embryo"	"Early embryo"	"None"	"None"	0.9732	0.5975	33920
+660	"SRX494858"	"ce10"	"Histone"	"H3K14ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9924	0.4433	494
+661	"SRX494859"	"ce10"	"Histone"	"H3K14ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9765	0.537	226
+662	"SRX494861"	"ce10"	"TFs and others"	"scc-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9663	0.5312	11127
+663	"SRX494867"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.976	0.3857	1769
+664	"SRX494868"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9718	0.4282	5491
+665	"SRX494870"	"ce10"	"TFs and others"	"chd-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9892	0.3618	1301
+666	"SRX494873"	"ce10"	"TFs and others"	"msh-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9595	0.308	1144
+667	"SRX494874"	"ce10"	"TFs and others"	"msh-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9774	0.2263	1470
+668	"SRX494877"	"ce10"	"TFs and others"	"mre-11"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.96	0.555	16680
+669	"SRX494880"	"ce10"	"TFs and others"	"chd-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9620000000000001	0.2859	3294
+670	"SRX494884"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9659	0.5176	11713
+671	"SRX494885"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.966	0.5152	10843
+672	"SRX494887"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9766	0.6266	31564
+673	"SRX494889"	"ce10"	"TFs and others"	"kle-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9758	0.6184	16668
+674	"SRX494892"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9479	0.1898	3528
+675	"SRX494893"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9637	0.3406	1961
+676	"SRX494896"	"ce10"	"TFs and others"	"zim-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9609	0.4655	4557
+677	"SRX494897"	"ce10"	"TFs and others"	"zim-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9593	0.5238	307
+678	"SRX494900"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9698	0.5451	6501
+679	"SRX494901"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9758	0.5273	8609
+680	"SRX494904"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9592	0.519	14271
+681	"SRX494905"	"ce10"	"TFs and others"	"zhp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9554	0.5492	19091
+682	"SRX494908"	"ce10"	"TFs and others"	"zim-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9490000000000001	0.4966	14246
+683	"SRX494909"	"ce10"	"TFs and others"	"zim-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9553	0.4841	8477
+684	"SRX494912"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9278	0.18600000000000003	1915
+685	"SRX494913"	"ce10"	"TFs and others"	"coh-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9318	0.3041	2599
+686	"SRX494917"	"ce10"	"TFs and others"	"ash-2"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9690000000000001	0.4605	612
+687	"SRX494920"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9752	0.6708	37784
+688	"SRX494921"	"ce10"	"TFs and others"	"mrg-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9605	0.2804	580
+689	"SRX494923"	"ce10"	"TFs and others"	"him-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.8686	0.4547	401
+690	"SRX494926"	"ce10"	"TFs and others"	"him-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9709	0.474	808
+691	"SRX494929"	"ce10"	"Histone"	"H3S10ph"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9474	0.5725	389
+692	"SRX494930"	"ce10"	"Histone"	"H3S10ph"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9440000000000001	0.2306	6129
+693	"SRX494933"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9942	0.5427	182
+694	"SRX494934"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9698	0.6098	184
+695	"SRX494938"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"None"	0.9893	0.2744	576
+696	"SRX494941"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9468	0.6166	51933
+697	"SRX494942"	"ce10"	"Histone"	"H2.AK5ac"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9485	0.6183	52332
+698	"SRX494949"	"ce10"	"TFs and others"	"hda-1"	"Larvae"	"L3"	"None"	"None"	0.981	0.5051	6812
+699	"SRX494950"	"ce10"	"TFs and others"	"hda-1"	"Larvae"	"L3"	"None"	"None"	0.9663	0.5544	20392
+700	"SRX494952"	"ce10"	"TFs and others"	"let-418"	"Larvae"	"L3"	"None"	"None"	0.9792	0.4291	8316
+701	"SRX494957"	"ce10"	"TFs and others"	"let-418"	"Larvae"	"L3"	"None"	"None"	0.9715	0.5424	16042
+702	"SRX494960"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9549	0.35	6078
+703	"SRX494961"	"ce10"	"TFs and others"	"lin-61"	"Larvae"	"L3"	"None"	"None"	0.9747	0.4328	5556
+704	"SRX494965"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9828	0.7178	22475
+705	"SRX494968"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9883	0.6871	11577
+706	"SRX494969"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9871	0.6946	10230
+707	"SRX494972"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9798	0.7336	25189
+708	"SRX494973"	"ce10"	"TFs and others"	"nurf-1"	"Larvae"	"L3"	"None"	"None"	0.9847	0.7042	12821
+709	"SRX494984"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"her-1 (e1520), sdc-2 (y74)"	0.9807	0.6727	30442
+710	"SRX494985"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"her-1 (e1520), sdc-2 (y74)"	0.9677	0.5357	26558
+711	"SRX494988"	"ce10"	"TFs and others"	"zfp-1"	"Larvae"	"L3"	"None"	"None"	0.9784	0.6035	19549
+712	"SRX494989"	"ce10"	"TFs and others"	"zfp-1"	"Larvae"	"L3"	"None"	"None"	0.9741	0.6609999999999999	32891
+713	"SRX494992"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9684	0.7156	43035
+714	"SRX494993"	"ce10"	"Histone"	"htz-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9745	0.7409	36458
+715	"SRX494996"	"ce10"	"TFs and others"	"smc-4"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9724	0.5562	228
+716	"SRX494999"	"ce10"	"TFs and others"	"tbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9857	0.5068	5461
+717	"SRX495003"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9433	0.4811	38226
+718	"SRX495004"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8868	0.3425	48538
+719	"SRX495007"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8314	0.146	14980
+720	"SRX495008"	"ce10"	"TFs and others"	"ama-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8578	0.1173	9806
+721	"SRX495011"	"ce10"	"TFs and others"	"dpy-30"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9914	0.4324	2521
+722	"SRX495015"	"ce10"	"TFs and others"	"cbp-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9807	0.5135	9159
+723	"SRX495019"	"ce10"	"TFs and others"	"sdc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9890000000000001	0.2977	1524
+724	"SRX495020"	"ce10"	"TFs and others"	"sdc-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9833	0.5098	3773
+725	"SRX495027"	"ce10"	"Histone"	"H3K36me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9544	0.1416	512
+726	"SRX495028"	"ce10"	"Histone"	"H3K36me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9675	0.2787	4612
+727	"SRX495031"	"ce10"	"Histone"	"H3K4me1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9834	0.3768	5680
+728	"SRX495035"	"ce10"	"TFs and others"	"taf-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9828	0.4673	4637
+729	"SRX495036"	"ce10"	"TFs and others"	"taf-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9867	0.3866	2318
+730	"SRX495039"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9883	0.5364	7180
+731	"SRX495040"	"ce10"	"Histone"	"H3K27me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.991	0.3791	2547
+732	"SRX495044"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9652	0.521	32139
+733	"SRX495047"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.995	0.5791	326
+734	"SRX495048"	"ce10"	"TFs and others"	"imb-1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9838	0.4948	2867
+735	"SRX495051"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9844	0.4338	3373
+736	"SRX495052"	"ce10"	"TFs and others"	"pqn-85"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9902	0.3343	246
+737	"SRX495055"	"ce10"	"TFs and others"	"mau-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9819	0.4726	2882
+738	"SRX495056"	"ce10"	"TFs and others"	"mau-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9783	0.3251	423
+739	"SRX495060"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9779	0.3016	2603
+740	"SRX495063"	"ce10"	"TFs and others"	"htp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9625	0.4638	7977
+741	"SRX495064"	"ce10"	"TFs and others"	"htp-3"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9706	0.5609	13893
+742	"SRX495067"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9858	0.5135	3762
+743	"SRX495068"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9754	0.5041	10711
+744	"SRX495071"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9696	0.3061	2510
+745	"SRX495072"	"ce10"	"TFs and others"	"rec-8"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.946	0.3998	8124
+746	"SRX495075"	"ce10"	"TFs and others"	"dpy-26"	"Embryo"	"Mixed embryo"	"None"	"None"	0.977	0.2674	1208
+747	"SRX495079"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9688	0.249	332
+748	"SRX495080"	"ce10"	"TFs and others"	"coh-1"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9872	0.2324	186
+749	"SRX495084"	"ce10"	"TFs and others"	"smc-6"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9845	0.4091	5414
+750	"SRX495087"	"ce10"	"TFs and others"	"dpy-28"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9861	0.5452	7211
+751	"SRX495092"	"ce10"	"TFs and others"	"ash-2"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9869	0.3966	3707
+752	"SRX495095"	"ce10"	"TFs and others"	"wdr-5.1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9821	0.5618	12623
+753	"SRX495096"	"ce10"	"TFs and others"	"wdr-5.1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9840000000000001	0.6448	17016
+754	"SRX495099"	"ce10"	"RNA polymerase"	"rpc-1"	"Larvae"	"L3"	"None"	"None"	0.9769	0.6096	15532
+755	"SRX495100"	"ce10"	"RNA polymerase"	"rpc-1"	"Larvae"	"L3"	"None"	"None"	0.9809	0.6141	6172
+756	"SRX495103"	"ce10"	"TFs and others"	"him-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9115	0.3828	257
+757	"SRX495104"	"ce10"	"TFs and others"	"him-5"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9690000000000001	0.2807	760
+758	"SRX495107"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Germline containing young adult"	"None"	"None"	0.9946	0.5009	1311
+759	"SRX495111"	"ce10"	"TFs and others"	"jhdm-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9066	0.385	29854
+760	"SRX495112"	"ce10"	"TFs and others"	"jhdm-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9057	0.3066	28214
+761	"SRX495115"	"ce10"	"TFs and others"	"mrg-1"	"Embryo"	"Early embryo"	"None"	"None"	0.981	0.2322	2178
+762	"SRX495116"	"ce10"	"TFs and others"	"mrg-1"	"Embryo"	"Early embryo"	"None"	"None"	0.9889	0.5316	6982
+763	"SRX495120"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Embryo"	"Early embryo"	"None"	"None"	0.91	0.2705	21919
+764	"SRX495122"	"ce10"	"TFs and others"	"cec-7"	"Adult"	"Germline containing young adult"	"None"	"fem-2 (b245)"	0.9884	0.5725	256
+765	"SRX5064640"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L4"	"None"	"None"	0.9597	0.2857	4298
+766	"SRX5064642"	"ce10"	"Histone"	"H3K9me3"	"Larvae"	"L4"	"None"	"None"	0.9551	0.7064	48504
+767	"SRX514729"	"ce10"	"Histone"	"H4K16ac"	"Embryo"	"Early embryo"	"None"	"None"	0.9690000000000001	0.5574	26420
+768	"SRX529208"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9861	0.5807	15284
+769	"SRX529212"	"ce10"	"Histone"	"H3K9ac"	"Larvae"	"L3"	"None"	"None"	0.9571	0.1072	845
+770	"SRX529220"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.9847	0.5720000000000001	8178
+771	"SRX529221"	"ce10"	"TFs and others"	"lin-37"	"Embryo"	"Late embryo"	"None"	"None"	0.983	0.5514	8479
+772	"SRX529224"	"ce10"	"Histone"	"H3K9me1"	"Larvae"	"L3"	"None"	"None"	0.9954	0.5642	196
+773	"SRX554717"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"None"	0.9593	0.2611	6155
+774	"SRX554721"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9412	0.3779	16905
+775	"SRX554722"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9420000000000001	0.2204	5201
+776	"SRX554724"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"hrde-1 (tm1200)"	0.9543	0.1346	2302
+777	"SRX554734"	"ce10"	"Histone"	"H3K9me3"	"Adult"	"Young adult"	"None"	"prg-1 (n4357)"	0.976	0.2084	2389
+778	"SRX554735"	"ce10"	"RNA polymerase"	"RNA polymerase II"	"Adult"	"Young adult"	"None"	"prg-1 (n4357)"	0.9628	0.3105	6802
+779	"SRX657409"	"ce10"	"TFs and others"	"sdc-3"	"Larvae"	"L1"	"None"	"None"	0.8958	0.3321	1663
+780	"SRX657411"	"ce10"	"TFs and others"	"sdc-3"	"Embryo"	"Mixed embryo"	"None"	"sdc-2 (y93)"	0.9091	0.3347	499
+781	"SRX743640"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9775	0.6883	41046
+782	"SRX743641"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9752	0.0868	1816
+783	"SRX743642"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9343	0.4182	46152
+784	"SRX743643"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9752	0.7215	53512
+785	"SRX743645"	"ce10"	"Histone"	"H3K36me3"	"Adult"	"Adult"	"None"	"None"	0.9498	0.0935	3989
+786	"SRX743646"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9892	0.435	6671
+787	"SRX743649"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9865	0.3033	4517
+788	"SRX743651"	"ce10"	"Histone"	"H3"	"Adult"	"Adult"	"None"	"None"	0.9916	0.5932	185
+789	"SRX747295"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9783	0.7287	48009
+790	"SRX747296"	"ce10"	"Histone"	"H3K36me3"	"Larvae"	"L3"	"None"	"None"	0.9741	0.7040000000000001	49800
+791	"SRX747297"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.895	0.1919	237
+792	"SRX747298"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"None"	0.9003	0.3116	278
+793	"SRX747299"	"ce10"	"Histone"	"H3"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9264	0.1478	271
+794	"SRX747301"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9459	0.5226	48486
+795	"SRX747302"	"ce10"	"Histone"	"htz-1"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9231	0.3216	21582
+796	"SRX747304"	"ce10"	"Histone"	"H3K4me3"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9590000000000001	0.6717	30782
+797	"SRX747305"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9402	0.4105	23185
+798	"SRX747306"	"ce10"	"Histone"	"H4tetraac"	"Larvae"	"L3"	"None"	"lin-35 (n745)"	0.9469	0.4183	22033
+799	"SRX958294"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts), him-8 (e1489)"	0.9619	0.6732	44645
+800	"SRX958295"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts), him-8 (e1489)"	0.9639	0.6873	44139
+801	"SRX958296"	"ce10"	"Histone"	"H3K9me2"	"Adult"	"Adult"	"None"	"fer-1 (b232ts)"	0.9690000000000001	0.6445	31714
+802	"SRX982060"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.8662	0.2939	464
+803	"SRX982061"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9692	0.3488	580
+804	"SRX982062"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.8048	0.2837	534
+805	"SRX982063"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9095	0.2427	767
+806	"SRX982064"	"ce10"	"TFs and others"	"dpy-27"	"Embryo"	"Embryos"	"None"	"None"	0.9815	0.3664	360
+807	"SRX982065"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.8908	0.2331	749
+808	"SRX982066"	"ce10"	"TFs and others"	"dpy-27"	"Larvae"	"L3"	"None"	"None"	0.7766	0.1861	236
+809	"SRX982067"	"ce10"	"TFs and others"	"dpy-27"	"Adult"	"Young adult"	"None"	"None"	0.9732	0.3842	960
+810	"SRX982068"	"ce10"	"TFs and others"	"dpy-27"	"Adult"	"Young adult"	"None"	"None"	0.9965	0.3517	179
+811	"SRX982069"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9858	0.4321	583
+812	"SRX982072"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9887	0.4851	4758
+813	"SRX982073"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9927	0.5041	3434
+814	"SRX982074"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9884	0.168	1015
+815	"SRX982076"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9899	0.3194	646
+816	"SRX982077"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Embryos"	"None"	"None"	0.9909	0.3137	1707
+817	"SRX982078"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9611	0.251	273
+818	"SRX982079"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9828	0.1438	444
+819	"SRX982080"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9548	0.3381	286
+820	"SRX982081"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.935	0.3706	279
+821	"SRX982082"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9926	0.4428	201
+822	"SRX982083"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9965	0.3477	245
+823	"SRX982084"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.8862	0.1533	660
+824	"SRX982085"	"ce10"	"Histone"	"H4K20me1"	"Embryo"	"Mixed embryo"	"None"	"None"	0.9828	0.4082	2391
+825	"SRX982087"	"ce10"	"Histone"	"H4K20me1"	"Larvae"	"L3"	"None"	"None"	0.9940000000000001	0.4978	190

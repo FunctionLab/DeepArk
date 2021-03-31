@@ -1,66 +1,66 @@
-"index"	"accession"	"genome"	"assay_target_class"	"assay_target"	"biosample_type_class"	"biosample_type"	"treatment"	"mutation"	"test_auc_roc"	"test_auc_prc"
-0	"DCD000395SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"None"	0.9921	0.6844
-1	"DCD000635SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9916	0.6078
-2	"DCD000637SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9933	0.5341
-3	"DCD000639SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"None"	0.9979	0.7373
-4	"DCD000641SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9958	0.7886
-5	"DCD000646SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.993	0.7841
-6	"DCD000647SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9935	0.7768
-7	"DCD000648SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9924	0.7685
-8	"DCD000654SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9945	0.5775
-9	"DCD000973SQ"	"danRer11"	"TFs and others"	"Pou5f3"	"whole organism"	"whole organism, 5h post-fertilization, 50%-epiboly stage"	"pou5f3 mRNA"	"m793 MZspg"	0.9937	0.2373
-10	"DCD001006SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9775	0.5179
-11	"DCD001015SQ"	"danRer11"	"TFs and others"	"Sall4"	"whole organism"	"whole organism, 10h post-fertilization, Bud stage"	"None"	"None"	0.9814	0.3558
-12	"DCD001019SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9756	0.5233
-13	"DCD001020SQ"	"danRer11"	"Histone"	"H3K27ac"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9706	0.5165
-14	"DCD001027SQ"	"danRer11"	"Histone"	"H3K27ac"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9803	0.5329999999999999
-15	"DCD001030SQ"	"danRer11"	"TFs and others"	"Cdx4"	"whole organism"	"whole organism, 10h post-fertilization, Bud stage"	"None"	"None"	0.9751	0.2225
-16	"DCD001517SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.7h post-fertilization, 30%-epiboly stage"	"None"	"None"	0.9876	0.7922
-17	"DCD001525SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d 1h post-fertilization, Prim-5 stage"	"None"	"None"	0.9945	0.8132
-18	"DCD001529SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 2.75h post-fertilization, 512-cell stage"	"None"	"None"	0.9974	0.5151
-19	"DCD001540SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d 1h post-fertilization, Prim-5 stage"	"None"	"None"	0.9958	0.8066
-20	"DCD002144SQ"	"danRer11"	"Histone"	"H3K27ac"	"brain"	"brain, adult, 90 Days-2 Years"	"None"	"None"	0.9809	0.5031
-21	"DCD002145SQ"	"danRer11"	"Histone"	"H3K27ac"	"brain"	"brain, adult, 90 Days-2 Years"	"None"	"None"	0.9896	0.4479
-22	"DCD002148SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.9949	0.5669
-23	"DCD002149SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.991	0.5726
-24	"DCD002150SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.9936	0.5389
-25	"DCD002151SQ"	"danRer11"	"Histone"	"H3K27ac"	"intestine"	"intestine, adult, 90 Days-2 Years"	"None"	"None"	0.9718	0.5656
-26	"DCD002152SQ"	"danRer11"	"Histone"	"H3K27ac"	"intestine"	"intestine, adult, 90 Days-2 Years"	"None"	"None"	0.9763	0.5664
-27	"DCD002641SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/+"	0.9898	0.78
-28	"DCD002654SQ"	"danRer11"	"Histone"	"H3K4me3"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9889	0.6906
-29	"DCD002657SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9919	0.1833
-30	"DCD002659SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"Anp32e -/-"	0.9934	0.1418
-31	"DCD002660SQ"	"danRer11"	"Histone"	"H3K27ac"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9848	0.3253
-32	"DCD002661SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9936	0.4098
-33	"DCD002665SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9947	0.2934
-34	"DCD002667SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.995	0.1416
-35	"DCD002680SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9936	0.7096
-36	"DCD002684SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9808	0.4644
-37	"DCD002697SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9932	0.7506
-38	"DCD002699SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9959	0.6577
-39	"DCD002700SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9959	0.3364
-40	"DCD002704SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9933	0.754
-41	"DCD002706SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"Anp32e -/-"	0.9928	0.3625
-42	"DCD002710SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9951	0.456
-43	"DCD002711SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/+"	0.9933	0.7327
-44	"DCD002712SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9939	0.7254
-45	"DCD002751SQ"	"danRer11"	"RNA polymerase"	"RNA polymerase II"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9632	0.26
-46	"DCD002752SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9824	0.7641
-47	"DCD002757SQ"	"danRer11"	"RNA polymerase"	"RNA polymerase II"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9586	0.2341
-48	"DCD003074SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"tet1, tet2, and tet3 morpholinos"	"None"	0.9834	0.706
-49	"DCD003075SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"tet1, tet2, and tet3 morpholinos"	"None"	0.9856	0.6991
-50	"DCD003079SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 2d post-fertilization, Long-pec stage"	"None"	"None"	0.985	0.7268
-51	"DCD003082SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 4.33h post-fertilization, Dome stage"	"None"	"None"	0.9938	0.6295
-52	"DCD003084SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 4.33h post-fertilization, Dome stage"	"None"	"None"	0.982	0.6815
-53	"DCD003086SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.987	0.696
-54	"DCD003087SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9931	0.6541
-55	"DCD003088SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 2d post-fertilization, Long-pec stage"	"None"	"None"	0.986	0.7327
-56	"DCD003089SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.9921	0.7068
-57	"DCD003090SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9822	0.6639
-58	"DCD003092SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9878	0.6749
-59	"DCD003096SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9857	0.6763
-60	"DCD003161SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 3.7h post-fertilization, Oblong stage"	"None"	"None"	0.9942	0.4553
-61	"DCD003173SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-positive nuclei"	0.9955	0.5882
-62	"DCD003174SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-negative nuclei"	0.9940000000000001	0.6178
-63	"DCD003175SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-negative nuclei"	0.9940000000000001	0.5943
-64	"DCD003179SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-positive nuclei"	0.9917	0.5772
+"index"	"accession"	"genome"	"assay_target_class"	"assay_target"	"biosample_type_class"	"biosample_type"	"treatment"	"mutation"	"test_auc_roc"	"test_auc_prc"	"n_positive_test_examples"
+0	"DCD000395SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"None"	0.9921	0.6844	9990
+1	"DCD000635SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9916	0.6078	4654
+2	"DCD000637SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9933	0.5341	3009
+3	"DCD000639SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"None"	0.9979	0.7373	3750
+4	"DCD000641SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9958	0.7886	7965
+5	"DCD000646SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.993	0.7841	9653
+6	"DCD000647SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9935	0.7768	8003
+7	"DCD000648SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9924	0.7685	10394
+8	"DCD000654SQ"	"danRer11"	"Histone"	"H3K27ac"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9945	0.5775	3054
+9	"DCD000973SQ"	"danRer11"	"TFs and others"	"Pou5f3"	"whole organism"	"whole organism, 5h post-fertilization, 50%-epiboly stage"	"pou5f3 mRNA"	"m793 MZspg"	0.9937	0.2373	690
+10	"DCD001006SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9775	0.5179	12049
+11	"DCD001015SQ"	"danRer11"	"TFs and others"	"Sall4"	"whole organism"	"whole organism, 10h post-fertilization, Bud stage"	"None"	"None"	0.9814	0.3558	3620
+12	"DCD001019SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9756	0.5233	14184
+13	"DCD001020SQ"	"danRer11"	"Histone"	"H3K27ac"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9706	0.5165	10015
+14	"DCD001027SQ"	"danRer11"	"Histone"	"H3K27ac"	"cell line"	"zebrafish melanoma tumor cell line"	"None"	"None"	0.9803	0.5329999999999999	10099
+15	"DCD001030SQ"	"danRer11"	"TFs and others"	"Cdx4"	"whole organism"	"whole organism, 10h post-fertilization, Bud stage"	"None"	"None"	0.9751	0.2225	2171
+16	"DCD001517SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.7h post-fertilization, 30%-epiboly stage"	"None"	"None"	0.9876	0.7922	13630
+17	"DCD001525SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d 1h post-fertilization, Prim-5 stage"	"None"	"None"	0.9945	0.8132	10810
+18	"DCD001529SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 2.75h post-fertilization, 512-cell stage"	"None"	"None"	0.9974	0.5151	1949
+19	"DCD001540SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 1d 1h post-fertilization, Prim-5 stage"	"None"	"None"	0.9958	0.8066	8045
+20	"DCD002144SQ"	"danRer11"	"Histone"	"H3K27ac"	"brain"	"brain, adult, 90 Days-2 Years"	"None"	"None"	0.9809	0.5031	5940
+21	"DCD002145SQ"	"danRer11"	"Histone"	"H3K27ac"	"brain"	"brain, adult, 90 Days-2 Years"	"None"	"None"	0.9896	0.4479	3492
+22	"DCD002148SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.9949	0.5669	3202
+23	"DCD002149SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.991	0.5726	4505
+24	"DCD002150SQ"	"danRer11"	"Histone"	"H3K27ac"	"heart"	"heart, adult, 90 Days-2 Years"	"None"	"None"	0.9936	0.5389	3395
+25	"DCD002151SQ"	"danRer11"	"Histone"	"H3K27ac"	"intestine"	"intestine, adult, 90 Days-2 Years"	"None"	"None"	0.9718	0.5656	10393
+26	"DCD002152SQ"	"danRer11"	"Histone"	"H3K27ac"	"intestine"	"intestine, adult, 90 Days-2 Years"	"None"	"None"	0.9763	0.5664	9155
+27	"DCD002641SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/+"	0.9898	0.78	14252
+28	"DCD002654SQ"	"danRer11"	"Histone"	"H3K4me3"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9889	0.6906	9128
+29	"DCD002657SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9919	0.1833	1190
+30	"DCD002659SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"Anp32e -/-"	0.9934	0.1418	786
+31	"DCD002660SQ"	"danRer11"	"Histone"	"H3K27ac"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9848	0.3253	1690
+32	"DCD002661SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9936	0.4098	3006
+33	"DCD002665SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.9947	0.2934	1536
+34	"DCD002667SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"None"	0.995	0.1416	598
+35	"DCD002680SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9936	0.7096	7982
+36	"DCD002684SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9808	0.4644	7213
+37	"DCD002697SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9932	0.7506	7272
+38	"DCD002699SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9959	0.6577	4476
+39	"DCD002700SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"None"	0.9959	0.3364	1962
+40	"DCD002704SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9933	0.754	6821
+41	"DCD002706SQ"	"danRer11"	"Histone"	"H2AFV"	"sperm"	"sperm, adult, 90 Days-2 Years"	"None"	"Anp32e -/-"	0.9928	0.3625	3261
+42	"DCD002710SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e +/-"	0.9951	0.456	3048
+43	"DCD002711SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/+"	0.9933	0.7327	8159
+44	"DCD002712SQ"	"danRer11"	"Histone"	"H2AFV"	"whole organism"	"whole organism, 4h post-fertilization, Sphere stage"	"None"	"Anp32e -/-"	0.9939	0.7254	5612
+45	"DCD002751SQ"	"danRer11"	"RNA polymerase"	"RNA polymerase II"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9632	0.26	1168
+46	"DCD002752SQ"	"danRer11"	"Histone"	"H3K4me3"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9824	0.7641	14648
+47	"DCD002757SQ"	"danRer11"	"RNA polymerase"	"RNA polymerase II"	"whole organism"	"whole organism, 4.3h post-fertilization, Dome stage"	"None"	"None"	0.9586	0.2341	1109
+48	"DCD003074SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"tet1, tet2, and tet3 morpholinos"	"None"	0.9834	0.706	22511
+49	"DCD003075SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"tet1, tet2, and tet3 morpholinos"	"None"	0.9856	0.6991	17477
+50	"DCD003079SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 2d post-fertilization, Long-pec stage"	"None"	"None"	0.985	0.7268	25991
+51	"DCD003082SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 4.33h post-fertilization, Dome stage"	"None"	"None"	0.9938	0.6295	5237
+52	"DCD003084SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 4.33h post-fertilization, Dome stage"	"None"	"None"	0.982	0.6815	13187
+53	"DCD003086SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.987	0.696	14345
+54	"DCD003087SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9931	0.6541	6527
+55	"DCD003088SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 2d post-fertilization, Long-pec stage"	"None"	"None"	0.986	0.7327	24347
+56	"DCD003089SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 8h post-fertilization, 75%-epiboly stage"	"None"	"None"	0.9921	0.7068	9187
+57	"DCD003090SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 6h post-fertilization, Shield stage"	"None"	"None"	0.9822	0.6639	14793
+58	"DCD003092SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9878	0.6749	13167
+59	"DCD003096SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 12h post-fertilization, 5-9 somites stage"	"None"	"None"	0.9857	0.6763	15857
+60	"DCD003161SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 3.7h post-fertilization, Oblong stage"	"None"	"None"	0.9942	0.4553	1177
+61	"DCD003173SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-positive nuclei"	0.9955	0.5882	2738
+62	"DCD003174SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-negative nuclei"	0.9940000000000001	0.6178	4669
+63	"DCD003175SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-negative nuclei"	0.9940000000000001	0.5943	3880
+64	"DCD003179SQ"	"danRer11"	"Chromatin"	"ATAC-seq"	"whole organism"	"whole organism, 1d post-fertilization, Prim-5 stage"	"None"	"Tg(fli1a:egfp)y1, GFP-positive nuclei"	0.9917	0.5772	4801
